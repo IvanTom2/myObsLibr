@@ -1,0 +1,5 @@
+Quote: 
+
+Author:
+___
+Links: [[]]

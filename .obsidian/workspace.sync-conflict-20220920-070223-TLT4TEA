@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "48e495bf847736e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b069796c429efe6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "file.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a6862dc95ee11f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f501b531cfb03922",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2116265b733acefc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "49c4120e484b28e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "объед таблиц",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "978c19be3f144c4c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "29007c6fb36a7d6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a4675aed8ed0685",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c111e0488ca3a63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "file.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1aa07b6e1f1fb70c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "file.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54e139497dfd50f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a496bd2f0f84ba6d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "file.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "2b069796c429efe6",
+  "lastOpenFiles": [
+    "new.md",
+    "file.md",
+    "Python.md",
+    "Бизнес.md",
+    "Алгоритм.md",
+    "Алгоритм бинарного поиска.md",
+    "Ставки на спорт.md",
+    "Модель для ставок.md",
+    "Продажа ставок.md",
+    "Pandas merge.md"
+  ]
+}

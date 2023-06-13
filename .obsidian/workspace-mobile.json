@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "48e495bf847736e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b27872d952f74b77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23af83f4b87b32e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DIP принцип инверсии зависимостей.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0be5755a1cebe842",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ca6b366b2bd416b1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e237105ebd9dc14a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "035d5f2085ae0f09",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "958f71f6bf9bb461",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "aaa3b27337a69ecf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6a99d9e3efeaa304",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "DIP принцип инверсии зависимостей.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "804440a7e56c9065",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "DIP принцип инверсии зависимостей.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c90a0c03f58dce47",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "DIP принцип инверсии зависимостей.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "23af83f4b87b32e7",
+  "lastOpenFiles": [
+    "New cards/SOLID.md",
+    "ISP принцип разделения интерфейсов.md",
+    "DIP принцип инверсии зависимостей.md",
+    "OCP принцип открытости закрытости.md",
+    "New cards/LSP принцип подстановки Барбары Лисков.md",
+    "New cards/Вопросы выяснения причины.md",
+    "New cards/Вопросы знания.md",
+    "New cards/Альтернативный вопрос.md",
+    "New cards/Вопросы в продажах.md",
+    "New cards/Вопросы типа правильно ли я понял.md"
+  ]
+}

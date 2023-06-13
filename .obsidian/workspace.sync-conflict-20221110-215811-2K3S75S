@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "48e495bf847736e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b069796c429efe6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pandas contains.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0be5755a1cebe842",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ca6b366b2bd416b1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "e237105ebd9dc14a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "035d5f2085ae0f09",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "958f71f6bf9bb461",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "aaa3b27337a69ecf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6a99d9e3efeaa304",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "pandas contains.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "804440a7e56c9065",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "pandas contains.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c90a0c03f58dce47",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "pandas contains.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "2b069796c429efe6",
+  "lastOpenFiles": [
+    "Networks.md",
+    "pandas contains.md",
+    "Terminate MP py.md",
+    "Daemon MP py.md",
+    "Shared memory mp py.md",
+    "multiproccessing.md",
+    "new.md",
+    "file.md",
+    "Привет.md",
+    "Заметка.md"
+  ]
+}
