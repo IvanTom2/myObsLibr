@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c95e8253cf2ca62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New cards/Решение системы линейных уравнений в матричном виде.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f64203695d732328",
             "type": "leaf",
             "state": {
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Решение системы линейных уравнений в матричном виде.md",
+                "file": "Markdown Mathematics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Решение системы линейных уравнений в матричном виде.md",
+                "file": "Markdown Mathematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Решение системы линейных уравнений в матричном виде.md"
+                "file": "Markdown Mathematics.md"
               }
             }
           }
@@ -167,16 +155,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9c95e8253cf2ca62",
+  "active": "f64203695d732328",
   "lastOpenFiles": [
-    "New cards/Свойства обратной матрицы.md",
+    "New cards/Метод окаймляющих миноров.md",
+    "New cards/Ранг матрицы.md",
+    "New cards/Формула Крамера.md",
     "Markdown Mathematics.md",
+    "New cards/Решение системы линейных уравнений в матричном виде.md",
+    "New cards/Свойства обратной матрицы.md",
     "New cards/Обратная матрица.md",
     "New cards/Свойства определителя матрицы.md",
     "New cards/Определитель матрицы.md",
     "New cards/Транспонирование матрицы.md",
     "New cards/Линейная алгебра и аналитическая геометрия.md",
-    "New cards/Решение системы линейных уравнений в матричном виде.md",
     "_Resources/Pasted image 20230704162805.png",
     "_Resources/Pasted image 20230704162712.png",
     "New cards/Алгебраические действия над матрицами.md",
@@ -202,9 +193,6 @@
     "_Resources/Pasted image 20230630070312.png",
     "_Resources/Pasted image 20230630070257.png",
     "_Resources/Pasted image 20230630070247.png",
-    "New cards/D-триггер со срабатыванием по фронту.md",
-    "New cards/D-триггер со срабатыванием по уровню.md",
-    "New cards/D-триггер с предустановкой и очисткой, срабатывающий по фронту.md",
     "_Resources/Pasted image 20230609081136.png",
     "Untitled.canvas"
   ]
