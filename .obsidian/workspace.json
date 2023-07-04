@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "bf34dad0a8e18e5f",
+        "id": "bbfb73a038a65aef",
         "type": "tabs",
         "children": [
           {
-            "id": "cd71f15c25154c16",
+            "id": "9c95e8253cf2ca62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Алгебраические действия с матрицами.md",
+                "file": "New cards/Решение системы линейных уравнений в матричном виде.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f64203695d732328",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown Mathematics.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Алгебраические действия с матрицами.md",
+                "file": "New cards/Решение системы линейных уравнений в матричном виде.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Алгебраические действия с матрицами.md",
+                "file": "New cards/Решение системы линейных уравнений в матричном виде.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Алгебраические действия с матрицами.md"
+                "file": "New cards/Решение системы линейных уравнений в матричном виде.md"
               }
             }
           }
@@ -155,11 +167,31 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "cd71f15c25154c16",
+  "active": "9c95e8253cf2ca62",
   "lastOpenFiles": [
-    "New cards/Матрица.md",
-    "New cards/Алгебраические действия с матрицами.md",
+    "New cards/Свойства обратной матрицы.md",
+    "Markdown Mathematics.md",
+    "New cards/Обратная матрица.md",
+    "New cards/Свойства определителя матрицы.md",
+    "New cards/Определитель матрицы.md",
+    "New cards/Транспонирование матрицы.md",
     "New cards/Линейная алгебра и аналитическая геометрия.md",
+    "New cards/Решение системы линейных уравнений в матричном виде.md",
+    "_Resources/Pasted image 20230704162805.png",
+    "_Resources/Pasted image 20230704162712.png",
+    "New cards/Алгебраические действия над матрицами.md",
+    "New cards/Свойства алгебраических действий над матрицами.md",
+    "New cards/Матрица.md",
+    "New cards/Селектор 8 на 1.md",
+    "New cards/Селектор 2 на 1.md",
+    "New cards/Определение функции в C++.md",
+    "New cards/Дешифратор 3 на 8.md",
+    "New cards/Двоичный сумматор с функцией вычитания.md",
+    "New cards/Феномен владения в Rust.md",
+    "New cards/JK-триггер.md",
+    "New cards/Rust.md",
+    "New cards/Реляционная теория.md",
+    "New cards/Анализ алгоритмов.md",
     "New cards/Математическая логика.md",
     "Проверка GitHub.md",
     "obsidian",
@@ -170,30 +202,10 @@
     "_Resources/Pasted image 20230630070312.png",
     "_Resources/Pasted image 20230630070257.png",
     "_Resources/Pasted image 20230630070247.png",
-    "New cards/Анализ алгоритмов.md",
-    "New cards/JK-триггер.md",
     "New cards/D-триггер со срабатыванием по фронту.md",
     "New cards/D-триггер со срабатыванием по уровню.md",
     "New cards/D-триггер с предустановкой и очисткой, срабатывающий по фронту.md",
-    "New cards/Типизация в Rust.md",
-    "New cards/Оригинальная реляционная алгерба.md",
     "_Resources/Pasted image 20230609081136.png",
-    "New cards/Реляционная теория.md",
-    "Markdown Mathematics.md",
-    "New cards/Массив RAM.md",
-    "_Resources/Pasted image 20230608082806.png",
-    "_Resources/Pasted image 20230608081926.png",
-    "New cards/Память компьютера.md",
-    "New cards/Многобитная память с произвольным доступом.md",
-    "New cards/Простая многобитная память.md",
-    "New cards/Дешифратор 3 на 8.md",
-    "New cards/Селектор 8 на 1.md",
-    "New cards/Селектор 2 на 1.md",
-    "New cards/Единица памяти.md",
-    "Производящая функция вероятностей.md",
-    "Формула Бернулли.md",
-    "Тервер и матстат.md",
-    "New cards/Коэффициент сходства.md",
     "Untitled.canvas"
   ]
 }

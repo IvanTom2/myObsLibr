@@ -83,6 +83,8 @@ $\psi \Psi$
 $\mu M$
 $\omega \Omega$
 
+$\mathbb {NZQRC}$
+
 Math equasions:
 ```
 \begin{align*}
