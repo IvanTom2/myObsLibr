@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd32d9ee1bc218f3",
+        "id": "bf34dad0a8e18e5f",
         "type": "tabs",
         "children": [
           {
-            "id": "fcae0962b482b3b6",
+            "id": "cd71f15c25154c16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Математическая логика.md",
+                "file": "New cards/Алгебраические действия с матрицами.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Математическая логика.md",
+                "file": "New cards/Алгебраические действия с матрицами.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Математическая логика.md",
+                "file": "New cards/Алгебраические действия с матрицами.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Математическая логика.md"
+                "file": "New cards/Алгебраические действия с матрицами.md"
               }
             }
           }
@@ -155,10 +155,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fcae0962b482b3b6",
+  "active": "cd71f15c25154c16",
   "lastOpenFiles": [
-    "Проверка GitHub.md",
+    "New cards/Матрица.md",
+    "New cards/Алгебраические действия с матрицами.md",
+    "New cards/Линейная алгебра и аналитическая геометрия.md",
     "New cards/Математическая логика.md",
+    "Проверка GitHub.md",
     "obsidian",
     "_Resources/Pasted image 20230630071716.png",
     "_Resources/Pasted image 20230630070833.png",
@@ -191,9 +194,6 @@
     "Формула Бернулли.md",
     "Тервер и матстат.md",
     "New cards/Коэффициент сходства.md",
-    "New cards/Обратная связь.md",
-    "Меры центральной тенденции.md",
-    "Элементы комбинаторики.md",
     "Untitled.canvas"
   ]
 }
