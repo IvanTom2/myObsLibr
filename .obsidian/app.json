@@ -25,5 +25,10 @@
     "editor:toggle-keyboard",
     "editor:configure-toolbar"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "ru"
+  ]
 }
