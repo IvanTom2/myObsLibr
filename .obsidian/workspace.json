@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8dbb19fc55768e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New cards/Длина вектора.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cc820c8ca9d8ded4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Mathematics.md",
+                "file": "New cards/Предел числовой последовательности.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Длина вектора.md",
+                "file": "New cards/Предел числовой последовательности.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Длина вектора.md",
+                "file": "New cards/Предел числовой последовательности.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Длина вектора.md"
+                "file": "New cards/Предел числовой последовательности.md"
               }
             }
           }
@@ -167,12 +155,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e8dbb19fc55768e3",
+  "active": "cc820c8ca9d8ded4",
   "lastOpenFiles": [
+    "New cards/Математический анализ.md",
+    "New cards/Предел числовой последовательности.md",
     "Markdown Mathematics.md",
+    "New cards/Декартова прямоугольная система координат на плоскости и полярная система координат.md",
+    "_Resources/Pasted image 20230705134613.png",
+    "_Resources/Pasted image 20230705134600.png",
+    "_Resources/Pasted image 20230705134549.png",
+    "_Resources/Pasted image 20230705134449.png",
+    "_Resources/Pasted image 20230705134433.png",
+    "New cards/Смешанное произведение векторов.md",
+    "New cards/Векторное произведение векторов.md",
     "New cards/Длина вектора.md",
-    "New cards/Скалярное произведение векторов.md",
     "New cards/Базис векторного пространства.md",
+    "New cards/Скалярное произведение векторов.md",
     "New cards/Линейное векторное пространство.md",
     "New cards/Ранг матрицы.md",
     "New cards/Метод Гаусса.md",
@@ -193,19 +191,9 @@
     "New cards/Алгебраические действия над матрицами.md",
     "New cards/Свойства алгебраических действий над матрицами.md",
     "New cards/Матрица.md",
-    "New cards/Селектор 8 на 1.md",
-    "New cards/Селектор 2 на 1.md",
-    "New cards/Определение функции в C++.md",
-    "New cards/Дешифратор 3 на 8.md",
-    "New cards/Двоичный сумматор с функцией вычитания.md",
     "obsidian",
     "_Resources/Pasted image 20230630071716.png",
     "_Resources/Pasted image 20230630070833.png",
-    "_Resources/Pasted image 20230630070815.png",
-    "_Resources/Pasted image 20230630070744.png",
-    "_Resources/Pasted image 20230630070312.png",
-    "_Resources/Pasted image 20230630070257.png",
-    "_Resources/Pasted image 20230630070247.png",
     "Untitled.canvas"
   ]
 }
