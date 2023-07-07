@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc820c8ca9d8ded4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New cards/Раскрытие неопределенностей.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6f17f6ae4badf171",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Предел функции.md",
+                "file": "New cards/Производная функции.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Раскрытие неопределенностей.md",
+                "file": "New cards/Производная функции.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Раскрытие неопределенностей.md",
+                "file": "New cards/Производная функции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Раскрытие неопределенностей.md"
+                "file": "New cards/Производная функции.md"
               }
             }
           }
@@ -179,13 +167,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "cc820c8ca9d8ded4",
+  "active": "6f17f6ae4badf171",
   "lastOpenFiles": [
-    "New cards/Предел функции.md",
-    "New cards/Раскрытие неопределенностей.md",
     "Markdown Mathematics.md",
-    "New cards/Предел числовой последовательности.md",
+    "New cards/Производная функции.md",
+    "_Resources/Pasted image 20230707182606.png",
+    "_Resources/Pasted image 20230707182602.png",
+    "New cards/Непрерывность функции.md",
     "New cards/Математический анализ.md",
+    "New cards/Раскрытие неопределенностей.md",
+    "New cards/Замечательные пределы.md",
+    "_Resources/Pasted image 20230707174619.png",
+    "_Resources/Pasted image 20230707174615.png",
+    "New cards/Математическая логика.md",
+    "New cards/Предел функции.md",
+    "New cards/Предел числовой последовательности.md",
     "New cards/Декартова прямоугольная система координат на плоскости и полярная система координат.md",
     "_Resources/Pasted image 20230705134613.png",
     "_Resources/Pasted image 20230705134600.png",
@@ -208,16 +204,7 @@
     "New cards/Метод окаймляющих миноров.md",
     "New cards/Решение системы линейных уравнений в матричном виде.md",
     "New cards/Свойства обратной матрицы.md",
-    "New cards/Свойства определителя матрицы.md",
-    "New cards/Определитель матрицы.md",
-    "New cards/Транспонирование матрицы.md",
-    "New cards/Линейная алгебра и аналитическая геометрия.md",
-    "_Resources/Pasted image 20230704162805.png",
-    "_Resources/Pasted image 20230704162712.png",
-    "New cards/Алгебраические действия над матрицами.md",
     "obsidian",
-    "_Resources/Pasted image 20230630071716.png",
-    "_Resources/Pasted image 20230630070833.png",
     "Untitled.canvas"
   ]
 }
