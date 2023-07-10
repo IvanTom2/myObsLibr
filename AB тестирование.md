@@ -31,6 +31,6 @@ ___
 print('hello world')
 ```
 ___
-Language: [[Тервер и матстат]]
+Language: [[Теория вероятностей и математическая статистика]]
 Key-words:  [[Undone]]
 Question query?: 

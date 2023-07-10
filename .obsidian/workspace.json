@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "230d7cac89a2b267",
+        "id": "9224c0da1c8b601e",
         "type": "tabs",
         "children": [
           {
-            "id": "6f17f6ae4badf171",
+            "id": "f8ec621809f806e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Производная функции.md",
+                "file": "New cards/Гипергеометрическое распределение.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "522ee5301be093f0",
+            "id": "ea1441889598923e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Mathematics.md",
+                "file": "New cards/Распределение Пуассона.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Производная функции.md",
+                "file": "New cards/Гипергеометрическое распределение.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Производная функции.md",
+                "file": "New cards/Гипергеометрическое распределение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Производная функции.md"
+                "file": "New cards/Гипергеометрическое распределение.md"
               }
             }
           }
@@ -167,43 +167,44 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6f17f6ae4badf171",
+  "active": "f8ec621809f806e1",
   "lastOpenFiles": [
-    "Markdown Mathematics.md",
+    "Элементы комбинаторики.md",
+    "New cards/Гипергеометрическое распределение.md",
+    "New cards/Геометрическое распределение.md",
+    "Геометрическое распределение.md",
+    "New cards/Простейший поток событий.md",
+    "New cards/Распределение Пуассона.md",
+    "Распределение Пуассона.md",
+    "Теория вероятностей и математическая статистика.md",
+    "Формула Бернулли.md",
+    "New cards/Теория вероятностей и математическая статистика.md",
+    "AB тестирование.md",
+    "Локальная теорема Лапласа.md",
+    "New cards/Биномиальное распределение.md",
+    "New cards/Закон распределения вероятностей случайной величины.md",
+    "Биномиальное распределение.md",
+    "New cards/Случайная величина.md",
+    "Вероятность отклонения относительной частоты от постоянной вероятности в независимых испытания.md",
+    "Непрерывная случайная величина.md",
     "New cards/Производная функции.md",
+    "New cards/Дифференциал.md",
+    "New cards/Математический анализ.md",
+    "New cards/Логарифмическое дифференцирование.md",
+    "New cards/Непрерывность функции.md",
+    "New cards/Предел функции.md",
+    "New cards/Производная высших порядков.md",
+    "New cards/Производная сложной и обратной функции.md",
     "_Resources/Pasted image 20230707182606.png",
     "_Resources/Pasted image 20230707182602.png",
-    "New cards/Непрерывность функции.md",
-    "New cards/Математический анализ.md",
-    "New cards/Раскрытие неопределенностей.md",
-    "New cards/Замечательные пределы.md",
     "_Resources/Pasted image 20230707174619.png",
     "_Resources/Pasted image 20230707174615.png",
-    "New cards/Математическая логика.md",
-    "New cards/Предел функции.md",
-    "New cards/Предел числовой последовательности.md",
-    "New cards/Декартова прямоугольная система координат на плоскости и полярная система координат.md",
     "_Resources/Pasted image 20230705134613.png",
     "_Resources/Pasted image 20230705134600.png",
     "_Resources/Pasted image 20230705134549.png",
     "_Resources/Pasted image 20230705134449.png",
     "_Resources/Pasted image 20230705134433.png",
-    "New cards/Смешанное произведение векторов.md",
-    "New cards/Векторное произведение векторов.md",
-    "New cards/Длина вектора.md",
-    "New cards/Базис векторного пространства.md",
-    "New cards/Скалярное произведение векторов.md",
-    "New cards/Линейное векторное пространство.md",
-    "New cards/Ранг матрицы.md",
-    "New cards/Метод Гаусса.md",
     "_Resources/Pasted image 20230704220428.png",
-    "New cards/Теорема Кронекера-Капели.md",
-    "New cards/Системы линейных уравнений.md",
-    "New cards/Формула Крамера.md",
-    "New cards/Обратная матрица.md",
-    "New cards/Метод окаймляющих миноров.md",
-    "New cards/Решение системы линейных уравнений в матричном виде.md",
-    "New cards/Свойства обратной матрицы.md",
     "obsidian",
     "Untitled.canvas"
   ]
