@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8a0f9a4f9b8d3cbd",
+        "id": "658d62a7ac8e685d",
         "type": "tabs",
         "children": [
           {
-            "id": "bf2323a33be87ba0",
+            "id": "50b3f094be70d3cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Алгебраические операции и алгебраические системы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c54c536e8fa83ccb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown Mathematics.md",
+                "file": "New cards/Признаки существования предела.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Алгебраические операции и алгебраические системы.md",
+                "file": "New cards/Признаки существования предела.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Алгебраические операции и алгебраические системы.md",
+                "file": "New cards/Признаки существования предела.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Алгебраические операции и алгебраические системы.md"
+                "file": "New cards/Признаки существования предела.md"
               }
             }
           }
@@ -167,13 +155,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "bf2323a33be87ba0",
+  "active": "50b3f094be70d3cb",
   "lastOpenFiles": [
-    "New cards/Множества и отображения.md",
+    "New cards/Числовая последовательность.md",
+    "New cards/Признаки существования предела.md",
+    "New cards/Понятие неопределенностей.md",
+    "New cards/Арифметические свойства пределов.md",
+    "New cards/Предел числовой последовательности.md",
+    "Markdown Mathematics.md",
     "New cards/Алгебраические операции и алгебраические системы.md",
+    "New cards/Множества и отображения.md",
     "New cards/Числовые множества.md",
     "Линейная алгебра и аналитическая геометрия Киркинский.md",
-    "Markdown Mathematics.md",
     "New cards/Распределение Пуассона.md",
     "New cards/Гипергеометрическое распределение.md",
     "Элементы комбинаторики.md",
@@ -190,11 +183,6 @@
     "New cards/Закон распределения вероятностей случайной величины.md",
     "Биномиальное распределение.md",
     "New cards/Случайная величина.md",
-    "Вероятность отклонения относительной частоты от постоянной вероятности в независимых испытания.md",
-    "Непрерывная случайная величина.md",
-    "New cards/Производная функции.md",
-    "New cards/Дифференциал.md",
-    "New cards/Математический анализ.md",
     "_Resources/Pasted image 20230707182606.png",
     "_Resources/Pasted image 20230707182602.png",
     "_Resources/Pasted image 20230707174619.png",
