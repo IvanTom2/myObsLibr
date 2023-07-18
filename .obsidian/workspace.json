@@ -8,55 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90acab66c7a188ba",
+            "id": "bdbeb9d6f23526c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Определитель матрицы.md",
+                "file": "New cards/Вектор.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "04a9a267c9910e32",
+            "id": "37424c3ffea3e1dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Метод Гаусса.md",
+                "file": "New cards/Длина вектора.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1e0f3e76de3aed44",
+            "id": "84534055497e9175",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Решение системы линейных уравнений в матричном виде.md",
+                "file": "New cards/Вектор.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7181aa1ec830e38b",
+            "id": "9bb147dfb86a9ead",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Матрица.md",
+                "file": "New cards/Операции над векторами.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75047a7b1b70b32c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New cards/Свойства операций над векторами.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Метод Гаусса.md",
+                "file": "New cards/Вектор.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Метод Гаусса.md",
+                "file": "New cards/Вектор.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Метод Гаусса.md"
+                "file": "New cards/Вектор.md"
               }
             }
           }
@@ -192,23 +204,32 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "04a9a267c9910e32",
+  "active": "84534055497e9175",
   "lastOpenFiles": [
+    "New cards/Длина вектора.md",
+    "New cards/Операции над векторами.md",
+    "New cards/Свойства операций над векторами.md",
+    "_Resources/Pasted image 20230718083222.png",
+    "_Resources/Pasted image 20230718080301.png",
+    "New cards/Вектор.md",
+    "_Resources/Pasted image 20230718074748.png",
+    "_Resources/Pasted image 20230718074737.png",
+    "_Resources/Pasted image 20230718074257.png",
+    "_Resources/Pasted image 20230718074024.png",
+    "_Resources/Pasted image 20230718073321.png",
+    "New cards/Линейное векторное пространство.md",
+    "New cards/Базис векторного пространства.md",
+    "New cards/Определитель матрицы.md",
+    "New cards/Метод Гаусса.md",
     "New cards/Системы линейных уравнений.md",
     "New cards/Решение системы линейных уравнений в матричном виде.md",
-    "New cards/Метод Гаусса.md",
     "_Resources/Pasted image 20230717195545.png",
     "_Resources/Pasted image 20230717195543.png",
     "_Resources/Pasted image 20230717195257.png",
-    "_Resources/Pasted image 20230717195237.png",
-    "_Resources/Pasted image 20230717195200.png",
     "New cards/Метод Крамера.md",
-    "New cards/Определитель матрицы.md",
     "New cards/Теорема Кронекера-Капели.md",
     "New cards/Ранг матрицы.md",
     "New cards/Матрица.md",
-    "_Resources/Pasted image 20230717144422.png",
-    "_Resources/Pasted image 20230717144312.png",
     "New cards/Обратная матрица.md",
     "Markdown Mathematics.md",
     "New cards/Свойства определителя матрицы.md",
@@ -219,16 +240,7 @@
     "New cards/Алгебраические действия над матрицами.md",
     "New cards/Свойства алгебраических действий над матрицами.md",
     "New cards/Транспонирование матрицы.md",
-    "_Resources/Pasted image 20230717085139.png",
     "New cards/Множества чисел.md",
-    "New cards/Геометрическое распределение.md",
-    "New cards/Гипергеометрическое распределение.md",
-    "Геометрическое распределение.md",
-    "New cards/Признаки существования предела.md",
-    "New cards/Числовая последовательность.md",
-    "New cards/Понятие неопределенностей.md",
-    "_Resources/Pasted image 20230707182606.png",
-    "_Resources/Pasted image 20230707182602.png",
     "obsidian",
     "Untitled.canvas"
   ]
