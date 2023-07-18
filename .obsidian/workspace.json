@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Вектор.md",
+                "file": "New cards/Линейное векторное пространство.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Вектор.md",
+                "file": "New cards/Линейное векторное пространство.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Вектор.md",
+                "file": "New cards/Линейное векторное пространство.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Вектор.md"
+                "file": "New cards/Линейное векторное пространство.md"
               }
             }
           }
@@ -206,18 +206,18 @@
   },
   "active": "84534055497e9175",
   "lastOpenFiles": [
-    "New cards/Длина вектора.md",
     "New cards/Операции над векторами.md",
+    "New cards/Линейное векторное пространство.md",
+    "New cards/Вектор.md",
+    "New cards/Длина вектора.md",
     "New cards/Свойства операций над векторами.md",
     "_Resources/Pasted image 20230718083222.png",
     "_Resources/Pasted image 20230718080301.png",
-    "New cards/Вектор.md",
     "_Resources/Pasted image 20230718074748.png",
     "_Resources/Pasted image 20230718074737.png",
     "_Resources/Pasted image 20230718074257.png",
     "_Resources/Pasted image 20230718074024.png",
     "_Resources/Pasted image 20230718073321.png",
-    "New cards/Линейное векторное пространство.md",
     "New cards/Базис векторного пространства.md",
     "New cards/Определитель матрицы.md",
     "New cards/Метод Гаусса.md",
