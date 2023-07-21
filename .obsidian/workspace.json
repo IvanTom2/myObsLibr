@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Функция одной действительной переменной.md",
+                "file": "New cards/Линейные преобразования конечномерных пространств.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e833ed20df285cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown Mathematics.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Функция одной действительной переменной.md",
+                "file": "New cards/Линейные преобразования конечномерных пространств.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Функция одной действительной переменной.md",
+                "file": "New cards/Линейные преобразования конечномерных пространств.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Функция одной действительной переменной.md"
+                "file": "New cards/Линейные преобразования конечномерных пространств.md"
               }
             }
           }
@@ -157,6 +169,10 @@
   },
   "active": "ab46991a840f7ed3",
   "lastOpenFiles": [
+    "Markdown Mathematics.md",
+    "New cards/Линейные преобразования конечномерных пространств.md",
+    "New cards/Примеры линейных пространств.md",
+    "New cards/Функция одной действительной переменной.md",
     "New cards/Математический анализ.md",
     "New cards/Производная функции.md",
     "New cards/Вектор.md",
