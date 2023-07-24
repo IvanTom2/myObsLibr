@@ -4,71 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "a464d4e6c7967a9a",
+        "id": "1dd02e6406cfb447",
         "type": "tabs",
         "children": [
           {
-            "id": "5975ce1935dab6b5",
+            "id": "40f075255483f3ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Вектор.md",
+                "file": "New cards/Функция одной действительной переменной.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2adb85f083b633bc",
+            "id": "5535781e27c16724",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Векторное произведение векторов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c34445895a79390",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New cards/Скалярное произведение векторов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bed34a76d5aec65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New cards/Обобщение векторной алгебры для пространства действительных чисел размерности n.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d32120f43230fe00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New cards/Множества чисел.md",
+                "file": "Markdown Mathematics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Обобщение векторной алгебры для пространства действительных чисел размерности n.md",
+                "file": "New cards/Функция одной действительной переменной.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Обобщение векторной алгебры для пространства действительных чисел размерности n.md",
+                "file": "New cards/Функция одной действительной переменной.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Обобщение векторной алгебры для пространства действительных чисел размерности n.md"
+                "file": "New cards/Функция одной действительной переменной.md"
               }
             }
           }
@@ -204,11 +167,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1bed34a76d5aec65",
+  "active": "40f075255483f3ba",
   "lastOpenFiles": [
-    "New cards/Примеры линейных пространств.md",
-    "New cards/Обобщение векторной алгебры для пространства действительных чисел размерности n.md",
+    "_Resources/Pasted image 20230724145622.png",
+    "New cards/Способы задания функции.md",
+    "New cards/Функция одной действительной переменной.md",
+    "Markdown Mathematics.md",
+    "New cards/Критерий Коши.md",
+    "New cards/Предел подпоследовательности.md",
+    "New cards/Предел функции.md",
     "New cards/Множества чисел.md",
+    "New cards/Обобщение векторной алгебры для пространства действительных чисел размерности n.md",
+    "New cards/Примеры линейных пространств.md",
     "New cards/Смешанное произведение векторов.md",
     "New cards/Упорядоченная тройка векторов.md",
     "New cards/Скалярное произведение векторов.md",
@@ -227,7 +197,6 @@
     "_Resources/Pasted image 20230723140043.png",
     "New cards/Crfk.md",
     "_Resources/Pasted image 20230723131840.png",
-    "Markdown Mathematics.md",
     "New cards/Векторы в трехмерном пространстве.md",
     "New cards/Векторная алгебра.md",
     "New cards/Линейное векторное пространство.md",
@@ -236,12 +205,6 @@
     "New cards/Базис и размерность пространства.md",
     "New cards/Собственные векторы и собственные значения.md",
     "New cards/Матрица линейного преобразования.md",
-    "New cards/Базис векторного пространства.md",
-    "New cards/Действия с линейными преобразованиями.md",
-    "New cards/Линейная алгебра и аналитическая геометрия.md",
-    "New cards/Решение системы линейных уравнений в матричном виде.md",
-    "New cards/Свойства алгебраических действий над матрицами.md",
-    "New cards/Операции над векторами.md",
     "obsidian",
     "Untitled.canvas"
   ]
