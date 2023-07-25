@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "622b0a4652368f46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New cards/График функции.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "40f075255483f3ba",
             "type": "leaf",
             "state": {
@@ -117,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Элементарные функции.md",
+                "file": "New cards/График функции.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Элементарные функции.md",
+                "file": "New cards/График функции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Элементарные функции.md"
+                "file": "New cards/График функции.md"
               }
             }
           }
@@ -179,22 +191,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "40f075255483f3ba",
+  "active": "622b0a4652368f46",
   "lastOpenFiles": [
-    "_Resources/Pasted image 20230725090059.png",
-    "_Resources/Pasted image 20230725083455.png",
-    "_Resources/Pasted image 20230725083131.png",
-    "_Resources/Pasted image 20230725083048.png",
-    "_Resources/Pasted image 20230725082732.png",
-    "_Resources/Pasted image 20230725082048.png",
+    "New cards/Элементарные функции.md",
+    "New cards/График функции.md",
+    "_Resources/Pasted image 20230725145436.png",
+    "_Resources/Pasted image 20230725145318.png",
+    "_Resources/Pasted image 20230725145149.png",
+    "_Resources/Pasted image 20230725144723.png",
+    "_Resources/Pasted image 20230725144703.png",
+    "_Resources/Pasted image 20230725144644.png",
+    "_Resources/Pasted image 20230725144633.png",
+    "_Resources/Pasted image 20230725143848.png",
+    "_Resources/Pasted image 20230725143831.png",
+    "_Resources/Pasted image 20230725143740.png",
     "New cards/Операции на множестве функций.md",
     "New cards/Функция одной действительной переменной.md",
-    "New cards/Элементарные функции.md",
-    "_Resources/Pasted image 20230725081712.png",
-    "_Resources/Pasted image 20230725081134.png",
-    "_Resources/Pasted image 20230725080556.png",
-    "_Resources/Pasted image 20230725080219.png",
-    "_Resources/Pasted image 20230724205327.png",
     "Markdown Mathematics.md",
     "New cards/Способы задания функции.md",
     "New cards/Критерий Коши.md",
@@ -216,7 +228,6 @@
     "New cards/Линейное векторное пространство.md",
     "New cards/Изменение матрицы преобразования при переходе к другому базису.md",
     "New cards/Линейные преобразования конечномерных пространств.md",
-    "New cards/Базис и размерность пространства.md",
     "obsidian",
     "Untitled.canvas"
   ]
