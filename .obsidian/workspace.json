@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Функция одной действительной переменной.md",
+                "file": "New cards/Элементарные функции.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17b00506e59efe92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New cards/Операции на множестве функций.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Функция одной действительной переменной.md",
+                "file": "New cards/Элементарные функции.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Функция одной действительной переменной.md",
+                "file": "New cards/Элементарные функции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Функция одной действительной переменной.md"
+                "file": "New cards/Элементарные функции.md"
               }
             }
           }
@@ -169,10 +181,22 @@
   },
   "active": "40f075255483f3ba",
   "lastOpenFiles": [
-    "_Resources/Pasted image 20230724145622.png",
-    "New cards/Способы задания функции.md",
+    "_Resources/Pasted image 20230725090059.png",
+    "_Resources/Pasted image 20230725083455.png",
+    "_Resources/Pasted image 20230725083131.png",
+    "_Resources/Pasted image 20230725083048.png",
+    "_Resources/Pasted image 20230725082732.png",
+    "_Resources/Pasted image 20230725082048.png",
+    "New cards/Операции на множестве функций.md",
     "New cards/Функция одной действительной переменной.md",
+    "New cards/Элементарные функции.md",
+    "_Resources/Pasted image 20230725081712.png",
+    "_Resources/Pasted image 20230725081134.png",
+    "_Resources/Pasted image 20230725080556.png",
+    "_Resources/Pasted image 20230725080219.png",
+    "_Resources/Pasted image 20230724205327.png",
     "Markdown Mathematics.md",
+    "New cards/Способы задания функции.md",
     "New cards/Критерий Коши.md",
     "New cards/Предел подпоследовательности.md",
     "New cards/Предел функции.md",
@@ -183,28 +207,16 @@
     "New cards/Упорядоченная тройка векторов.md",
     "New cards/Скалярное произведение векторов.md",
     "New cards/Векторное произведение векторов.md",
-    "_Resources/Pasted image 20230723170238.png",
-    "_Resources/Pasted image 20230723155829.png",
-    "_Resources/Pasted image 20230723155634.png",
-    "_Resources/Pasted image 20230723152458.png",
-    "_Resources/Pasted image 20230723152259.png",
-    "_Resources/Pasted image 20230723152257.png",
-    "_Resources/Pasted image 20230723150158.png",
     "New cards/Вектор.md",
     "New cards/Скалярные проекции.md",
     "New cards/Untitled.md",
-    "_Resources/Pasted image 20230723143026.png",
-    "_Resources/Pasted image 20230723140043.png",
     "New cards/Crfk.md",
-    "_Resources/Pasted image 20230723131840.png",
     "New cards/Векторы в трехмерном пространстве.md",
     "New cards/Векторная алгебра.md",
     "New cards/Линейное векторное пространство.md",
     "New cards/Изменение матрицы преобразования при переходе к другому базису.md",
     "New cards/Линейные преобразования конечномерных пространств.md",
     "New cards/Базис и размерность пространства.md",
-    "New cards/Собственные векторы и собственные значения.md",
-    "New cards/Матрица линейного преобразования.md",
     "obsidian",
     "Untitled.canvas"
   ]
