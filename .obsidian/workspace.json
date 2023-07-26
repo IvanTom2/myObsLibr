@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Предел функции.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "622b0a4652368f46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New cards/Свойства предела функции.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6c0a5af21b9fad2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown Mathematics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abc771b3c75db400",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New cards/Множества и отображения.md",
+                "file": "New cards/Свойства непрерывных функций.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Свойства предела функции.md",
+                "file": "New cards/Свойства непрерывных функций.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Свойства предела функции.md",
+                "file": "New cards/Свойства непрерывных функций.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Свойства предела функции.md"
+                "file": "New cards/Свойства непрерывных функций.md"
               }
             }
           }
@@ -192,10 +155,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "622b0a4652368f46",
+  "active": "0ef4e7d305d4818f",
   "lastOpenFiles": [
+    "New cards/Непрерывность функции.md",
+    "New cards/Свойства непрерывных функций.md",
+    "_Resources/Pasted image 20230726184458.png",
+    "_Resources/Pasted image 20230726184159.png",
     "New cards/Предел функции.md",
     "New cards/Свойства предела функции.md",
+    "New cards/Понятие неопределенностей.md",
     "Markdown Mathematics.md",
     "New cards/Множества и отображения.md",
     "New cards/Числовые множества.md",
@@ -210,8 +178,6 @@
     "_Resources/Pasted image 20230725144644.png",
     "_Resources/Pasted image 20230725144633.png",
     "_Resources/Pasted image 20230725143848.png",
-    "_Resources/Pasted image 20230725143831.png",
-    "_Resources/Pasted image 20230725143740.png",
     "New cards/Операции на множестве функций.md",
     "New cards/Функция одной действительной переменной.md",
     "New cards/Способы задания функции.md",
@@ -227,9 +193,6 @@
     "New cards/Скалярные проекции.md",
     "New cards/Untitled.md",
     "New cards/Crfk.md",
-    "New cards/Векторы в трехмерном пространстве.md",
-    "New cards/Векторная алгебра.md",
-    "New cards/Линейное векторное пространство.md",
     "obsidian",
     "Untitled.canvas"
   ]
