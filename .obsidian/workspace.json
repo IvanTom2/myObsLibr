@@ -13,43 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/График функции.md",
+                "file": "New cards/Предел функции.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "40f075255483f3ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New cards/Элементарные функции.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17b00506e59efe92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New cards/Операции на множестве функций.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5535781e27c16724",
+            "id": "f6c0a5af21b9fad2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Markdown Mathematics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abc771b3c75db400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New cards/Множества и отображения.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/График функции.md",
+                "file": "New cards/Предел функции.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/График функции.md",
+                "file": "New cards/Предел функции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/График функции.md"
+                "file": "New cards/Предел функции.md"
               }
             }
           }
@@ -193,8 +181,13 @@
   },
   "active": "622b0a4652368f46",
   "lastOpenFiles": [
-    "New cards/Элементарные функции.md",
+    "Markdown Mathematics.md",
+    "New cards/Множества и отображения.md",
+    "New cards/Предел функции.md",
+    "New cards/Числовые множества.md",
+    "New cards/Множества чисел.md",
     "New cards/График функции.md",
+    "New cards/Элементарные функции.md",
     "_Resources/Pasted image 20230725145436.png",
     "_Resources/Pasted image 20230725145318.png",
     "_Resources/Pasted image 20230725145149.png",
@@ -207,12 +200,9 @@
     "_Resources/Pasted image 20230725143740.png",
     "New cards/Операции на множестве функций.md",
     "New cards/Функция одной действительной переменной.md",
-    "Markdown Mathematics.md",
     "New cards/Способы задания функции.md",
     "New cards/Критерий Коши.md",
     "New cards/Предел подпоследовательности.md",
-    "New cards/Предел функции.md",
-    "New cards/Множества чисел.md",
     "New cards/Обобщение векторной алгебры для пространства действительных чисел размерности n.md",
     "New cards/Примеры линейных пространств.md",
     "New cards/Смешанное произведение векторов.md",
@@ -227,7 +217,6 @@
     "New cards/Векторная алгебра.md",
     "New cards/Линейное векторное пространство.md",
     "New cards/Изменение матрицы преобразования при переходе к другому базису.md",
-    "New cards/Линейные преобразования конечномерных пространств.md",
     "obsidian",
     "Untitled.canvas"
   ]
