@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Свойства непрерывных функций.md",
+                "file": "New cards/Вычисление пределов с помощью эквивалентных бесконечных малых.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "097d137009db6d5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New cards/Непрерывность функции.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Свойства непрерывных функций.md",
+                "file": "New cards/Вычисление пределов с помощью эквивалентных бесконечных малых.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Свойства непрерывных функций.md",
+                "file": "New cards/Вычисление пределов с помощью эквивалентных бесконечных малых.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Свойства непрерывных функций.md"
+                "file": "New cards/Вычисление пределов с помощью эквивалентных бесконечных малых.md"
               }
             }
           }
@@ -157,8 +169,10 @@
   },
   "active": "0ef4e7d305d4818f",
   "lastOpenFiles": [
-    "New cards/Непрерывность функции.md",
     "New cards/Свойства непрерывных функций.md",
+    "New cards/Вычисление пределов с помощью эквивалентных бесконечных малых.md",
+    "New cards/Замечательные пределы.md",
+    "New cards/Непрерывность функции.md",
     "_Resources/Pasted image 20230726184458.png",
     "_Resources/Pasted image 20230726184159.png",
     "New cards/Предел функции.md",
@@ -191,8 +205,6 @@
     "New cards/Векторное произведение векторов.md",
     "New cards/Вектор.md",
     "New cards/Скалярные проекции.md",
-    "New cards/Untitled.md",
-    "New cards/Crfk.md",
     "obsidian",
     "Untitled.canvas"
   ]
