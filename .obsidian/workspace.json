@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d2aeaf147300df86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New cards/Дифференциал.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Производная функции.md",
+                "file": "New cards/Дифференциал.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Производная функции.md",
+                "file": "New cards/Дифференциал.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Производная функции.md"
+                "file": "New cards/Дифференциал.md"
               }
             }
           }
@@ -155,11 +168,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "48fa234d0a4f142a",
+  "active": "d2aeaf147300df86",
   "lastOpenFiles": [
+    "_Resources/Pasted image 20230728165831.png",
+    "New cards/Производная функции.md",
+    "New cards/Вычисление производной функции, заданной не формулой.md",
+    "Markdown Mathematics.md",
+    "New cards/Способы задания функции.md",
+    "New cards/Правила дифференцирования.md",
     "_Resources/Pasted image 20230727175746.png",
     "New cards/Дифференциал.md",
-    "New cards/Производная функции.md",
     "New cards/Непрерывность функции.md",
     "New cards/Замечательные пределы.md",
     "New cards/Свойства непрерывных функций на отрезке.md",
@@ -171,7 +189,6 @@
     "New cards/Предел функции.md",
     "New cards/Свойства предела функции.md",
     "New cards/Понятие неопределенностей.md",
-    "Markdown Mathematics.md",
     "New cards/Множества и отображения.md",
     "New cards/Числовые множества.md",
     "New cards/Множества чисел.md",
@@ -184,15 +201,11 @@
     "_Resources/Pasted image 20230725144703.png",
     "_Resources/Pasted image 20230725144644.png",
     "_Resources/Pasted image 20230725144633.png",
-    "_Resources/Pasted image 20230725143848.png",
     "New cards/Операции на множестве функций.md",
     "New cards/Функция одной действительной переменной.md",
-    "New cards/Способы задания функции.md",
     "New cards/Критерий Коши.md",
     "New cards/Предел подпоследовательности.md",
     "New cards/Обобщение векторной алгебры для пространства действительных чисел размерности n.md",
-    "New cards/Примеры линейных пространств.md",
-    "New cards/Смешанное произведение векторов.md",
     "obsidian",
     "Untitled.canvas"
   ]
