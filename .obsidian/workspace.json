@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "9fd1c7668e5b5517",
+        "id": "e4dd6c8dd93bd86c",
         "type": "tabs",
         "children": [
           {
-            "id": "6c2f051d08c6a0b4",
+            "id": "f390f7c2bc9e4101",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "New cards/Аналитическая геометрия.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cef93ea4420b036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New cards/Деление отрезка в данном отношении.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d90d2a8855a6fd77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New cards/Вычисление расстояния между точками.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "New cards/Деление отрезка в данном отношении.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "New cards/Деление отрезка в данном отношении.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "New cards/Деление отрезка в данном отношении.md"
+              }
             }
           }
         ]
@@ -147,8 +180,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6c2f051d08c6a0b4",
+  "active": "0cef93ea4420b036",
   "lastOpenFiles": [
+    "New cards/Простейшие задачи аналитической геометрии.md",
+    "New cards/Деление отрезка в данном отношении.md",
+    "New cards/Вычисление расстояния между точками.md",
+    "New cards/Аналитическая геометрия.md",
+    "New cards/Координатный метод.md",
+    "_Resources/Pasted image 20230731142243.png",
     "New cards/Наибольшее и наименьшее значение функции.md",
     "_Resources/Pasted image 20230730171929.png",
     "New cards/Исследование функции.md",
@@ -179,11 +218,6 @@
     "New cards/Тригонометрия.md",
     "New cards/Векторное произведение векторов.md",
     "New cards/Вычисление производной функции, заданной не формулой.md",
-    "New cards/Правила дифференцирования.md",
-    "New cards/Логарифмическое дифференцирование.md",
-    "New cards/Производная функции.md",
-    "_Resources/Pasted image 20230728165831.png",
-    "New cards/Способы задания функции.md",
     "obsidian",
     "Untitled.canvas"
   ]
