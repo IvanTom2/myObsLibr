@@ -27,8 +27,5 @@
   ],
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
-  "spellcheckLanguages": [
-    "en-US",
-    "ru"
-  ]
+  "spellcheckLanguages": null
 }
