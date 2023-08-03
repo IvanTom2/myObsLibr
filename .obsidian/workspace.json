@@ -8,31 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f390f7c2bc9e4101",
+            "id": "48338a64305373dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Аналитическая геометрия.md",
+                "file": "Markdown Mathematics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "36775b9e01271b01",
+            "id": "c0ad7b451fea9a89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Плоскости в трехмерном пространстве.md",
+                "file": "New cards/Комплексные числа и многочлены.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0d45a6fe66e33de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New cards/Поле комплексных чисел.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Плоскости в трехмерном пространстве.md",
+                "file": "New cards/Поле комплексных чисел.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Плоскости в трехмерном пространстве.md",
+                "file": "New cards/Поле комплексных чисел.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Плоскости в трехмерном пространстве.md"
+                "file": "New cards/Поле комплексных чисел.md"
               }
             }
           }
@@ -168,12 +180,23 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "36775b9e01271b01",
+  "active": "f0d45a6fe66e33de",
   "lastOpenFiles": [
-    "New cards/Скалярное произведение векторов.md",
-    "New cards/Плоскости в трехмерном пространстве.md",
-    "_Resources/Pasted image 20230801145400.png",
+    "New cards/Комплексные числа и многочлены.md",
+    "New cards/Поле комплексных чисел.md",
+    "Markdown Mathematics.md",
+    "New cards/Прямые в трехмерном пространстве.md",
+    "New cards/Полярная система координат.md",
+    "_Resources/Pasted image 20230803152424.png",
+    "_Resources/Pasted image 20230803151945.png",
+    "New cards/Прямые на плоскости.md",
+    "_Resources/Pasted image 20230803134430.png",
     "New cards/Аналитическая геометрия.md",
+    "New cards/Плоскости в трехмерном пространстве.md",
+    "_Resources/Pasted image 20230803100740.png",
+    "_Resources/Pasted image 20230803094458.png",
+    "New cards/Скалярное произведение векторов.md",
+    "_Resources/Pasted image 20230801145400.png",
     "New cards/Простейшие задачи аналитической геометрии.md",
     "New cards/Координаты пересечения линий.md",
     "New cards/Вычисление расстояния между точками.md",
@@ -188,24 +211,13 @@
     "_Resources/Pasted image 20230730165607.png",
     "New cards/Выпуклость и вогнутость функции.md",
     "_Resources/Pasted image 20230730164235.png",
-    "_Resources/Pasted image 20230730155918.png",
     "New cards/Монотонность и экстремумы функции.md",
     "New cards/Основные теоремы дифференциального исчисления.md",
     "New cards/Теоремы о среднем значении.md",
     "New cards/Правило Лопиталя.md",
     "New cards/Формула Тейлора.md",
     "New cards/Точка экстремума функции.md",
-    "_Resources/Pasted image 20230730113142.png",
     "New cards/Дифференциал.md",
-    "New cards/Радианная мера угла.md",
-    "New cards/Тригонометрические отношения в прямоугольном треугольнике.md",
-    "New cards/Тригонометрическая окружность.md",
-    "New cards/Основы тригонометрии.md",
-    "New cards/Основные формулы тригонометрии.md",
-    "_Resources/Pasted image 20230729154935.png",
-    "Markdown Mathematics.md",
-    "_Resources/Pasted image 20230729122959.png",
-    "_Resources/Pasted image 20230729122922.png",
     "obsidian",
     "Untitled.canvas"
   ]
