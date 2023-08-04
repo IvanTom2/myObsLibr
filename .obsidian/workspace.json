@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "e4dd6c8dd93bd86c",
+        "id": "93f6ba9959232d53",
         "type": "tabs",
         "children": [
           {
-            "id": "48338a64305373dc",
+            "id": "98bde511d7fb9861",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Mathematics.md",
+                "file": "New cards/Основы статистического обучения.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c0ad7b451fea9a89",
+            "id": "df5754929d8d4c4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Комплексные числа и многочлены.md",
+                "file": "New cards/Виды переменных.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f0d45a6fe66e33de",
+            "id": "fa94f1d9961e3436",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Поле комплексных чисел.md",
+                "file": "New cards/Линейная регрессия.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,14 +118,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Поле комплексных чисел.md",
+                "file": "New cards/Линейная регрессия.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Поле комплексных чисел.md",
+                "file": "New cards/Линейная регрессия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Поле комплексных чисел.md"
+                "file": "New cards/Линейная регрессия.md"
               }
             }
           }
@@ -180,11 +180,30 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f0d45a6fe66e33de",
+  "active": "fa94f1d9961e3436",
   "lastOpenFiles": [
-    "New cards/Комплексные числа и многочлены.md",
-    "New cards/Поле комплексных чисел.md",
+    "New cards/Метод ближайших соседей.md",
+    "New cards/Линейная регрессия.md",
+    "_Resources/Pasted image 20230804182045.png",
     "Markdown Mathematics.md",
+    "_Resources/Pasted image 20230804175929.png",
+    "_Resources/Pasted image 20230804175811.png",
+    "New cards/Виды переменных.md",
+    "New cards/Основы статистического обучения.md",
+    "New cards/Машинное обучение.md",
+    "New cards/Делимость многочленов.md",
+    "New cards/Поле комплексных чисел.md",
+    "New cards/Кольцо многочленов над полем комплексных чисел.md",
+    "New cards/Возведение в степень и извлечение корня комплексного числа.md",
+    "New cards/Сопряженные числа.md",
+    "New cards/Тригонометрическая форма записи комплексного числа.md",
+    "_Resources/Pasted image 20230804120503.png",
+    "New cards/Скалярное произведение векторов.md",
+    "New cards/Векторное произведение векторов.md",
+    "New cards/Производная функции.md",
+    "New cards/Правила дифференцирования.md",
+    "New cards/Вычисление производной функции, заданной не формулой.md",
+    "New cards/Комплексные числа и многочлены.md",
     "New cards/Прямые в трехмерном пространстве.md",
     "New cards/Полярная система координат.md",
     "_Resources/Pasted image 20230803152424.png",
@@ -195,29 +214,9 @@
     "New cards/Плоскости в трехмерном пространстве.md",
     "_Resources/Pasted image 20230803100740.png",
     "_Resources/Pasted image 20230803094458.png",
-    "New cards/Скалярное произведение векторов.md",
     "_Resources/Pasted image 20230801145400.png",
     "New cards/Простейшие задачи аналитической геометрии.md",
     "New cards/Координаты пересечения линий.md",
-    "New cards/Вычисление расстояния между точками.md",
-    "New cards/Деление отрезка в заданном отношении.md",
-    "New cards/Координатный метод.md",
-    "_Resources/Pasted image 20230731142243.png",
-    "New cards/Наибольшее и наименьшее значение функции.md",
-    "_Resources/Pasted image 20230730171929.png",
-    "New cards/Исследование функции.md",
-    "New cards/Асимптоты функции.md",
-    "New cards/Общий план построения графика функции.md",
-    "_Resources/Pasted image 20230730165607.png",
-    "New cards/Выпуклость и вогнутость функции.md",
-    "_Resources/Pasted image 20230730164235.png",
-    "New cards/Монотонность и экстремумы функции.md",
-    "New cards/Основные теоремы дифференциального исчисления.md",
-    "New cards/Теоремы о среднем значении.md",
-    "New cards/Правило Лопиталя.md",
-    "New cards/Формула Тейлора.md",
-    "New cards/Точка экстремума функции.md",
-    "New cards/Дифференциал.md",
     "obsidian",
     "Untitled.canvas"
   ]
