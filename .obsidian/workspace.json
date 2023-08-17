@@ -20,43 +20,31 @@
             }
           },
           {
-            "id": "5529c13af3f401b6",
+            "id": "a170d0844c427b65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Интегрируемость непрерывных функций.md",
+                "file": "New cards/Несобственный интеграл.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "945c9f6cf8847f4a",
+            "id": "750a4486c240b5d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Формула Ньютона-Лейбинца.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1b3ffa49927088a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New cards/Приемы вычисления определенных интегралов.md",
+                "file": "New cards/Интегралы от неограниченных функций.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Приемы вычисления определенных интегралов.md",
+                "file": "New cards/Интегралы от неограниченных функций.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Приемы вычисления определенных интегралов.md",
+                "file": "New cards/Интегралы от неограниченных функций.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Приемы вычисления определенных интегралов.md"
+                "file": "New cards/Интегралы от неограниченных функций.md"
               }
             }
           }
@@ -192,14 +180,32 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c1b3ffa49927088a",
+  "active": "750a4486c240b5d0",
   "lastOpenFiles": [
+    "_Resources/Pasted image 20230817143703.png",
+    "New cards/Несобственный интеграл.md",
+    "New cards/Интегралы от неограниченных функций.md",
+    "New cards/Несобственный интеграл с бесконечными пределами.md",
+    "New cards/Свойства несобственных интегралов.md",
+    "New cards/Признаки сходимости несобственных интегралов от положительных функций.md",
+    "New cards/Абсолютная сходимость несобственных интегралов.md",
+    "New cards/Определенный интеграл.md",
+    "New cards/Интегрируемость непрерывных функций.md",
+    "New cards/Применения определенного интеграла.md",
+    "New cards/Вычисление длины кривой с помощью определенного интеграла.md",
+    "_Resources/Pasted image 20230817115641.png",
+    "Markdown Mathematics.md",
+    "New cards/Вычисление объемов с помощью определенного интеграла.md",
+    "_Resources/Pasted image 20230817113619.png",
+    "New cards/Вычисление площадей с помощью определенного интеграла.md",
+    "_Resources/Pasted image 20230817110922.png",
+    "_Resources/Pasted image 20230817110210.png",
+    "_Resources/Pasted image 20230817105923.png",
+    "_Resources/Pasted image 20230817105646.png",
+    "_Resources/Pasted image 20230817105631.png",
     "New cards/Формула Ньютона-Лейбинца.md",
     "New cards/Приемы вычисления определенных интегралов.md",
-    "Markdown Mathematics.md",
-    "New cards/Интегрируемость непрерывных функций.md",
     "New cards/Непрерывность функции.md",
-    "New cards/Определенный интеграл.md",
     "_Resources/Pasted image 20230816164536.png",
     "New cards/Свойства определенного интеграла.md",
     "_Resources/Pasted image 20230816122724.png",
@@ -211,25 +217,7 @@
     "New cards/Интегрирование рациональных выражений.md",
     "New cards/Интегрирование по частям.md",
     "New cards/Замена переменной в интеграле.md",
-    "New cards/Дифференциал.md",
-    "New cards/Таблица основных интегралов.md",
-    "New cards/Метод ближайших соседей.md",
-    "New cards/Основы статистического обучения.md",
-    "New cards/Линейная регрессия.md",
-    "New cards/Разложение многочлена на множители.md",
-    "New cards/Корни многочлена.md",
-    "New cards/Делимость многочленов.md",
-    "New cards/Кольцо многочленов над полем комплексных чисел.md",
-    "New cards/Алгоритм Евклида.md",
-    "New cards/Комплексные числа и многочлены.md",
     "_Resources/Pasted image 20230804182045.png",
-    "_Resources/Pasted image 20230804175929.png",
-    "_Resources/Pasted image 20230804175811.png",
-    "_Resources/Pasted image 20230804120503.png",
-    "_Resources/Pasted image 20230803152424.png",
-    "_Resources/Pasted image 20230803151945.png",
-    "_Resources/Pasted image 20230803134430.png",
-    "_Resources/Pasted image 20230803100740.png",
     "obsidian",
     "Untitled.canvas"
   ]
