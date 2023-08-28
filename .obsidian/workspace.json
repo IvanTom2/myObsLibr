@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "db7175cbcf7e28ea",
+        "id": "cb95bc2941e5d740",
         "type": "tabs",
         "children": [
           {
-            "id": "ed8eda2cc78f176e",
+            "id": "d92ff460145f795c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New cards/Определенный интеграл.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a170d0844c427b65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New cards/Несобственный интеграл.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "750a4486c240b5d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New cards/Интегралы от неограниченных функций.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Интегралы от неограниченных функций.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Интегралы от неограниченных функций.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "New cards/Интегралы от неограниченных функций.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -180,44 +147,46 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "750a4486c240b5d0",
+  "active": "d92ff460145f795c",
   "lastOpenFiles": [
+    "Теория вероятностей и математическая статистика.md",
+    "Математическая статистика.md",
+    "Теория вероятностей.md",
+    "Аксиоматическое определение вероятности событий.md",
+    "Refactoring/Случайная величина.md",
+    "Refactoring/Алгебра событий.md",
+    "Разработка.md",
+    "Программирование.md",
+    "Математика.md",
+    "t-распределение.md",
+    "AB тестирование.md",
+    "Refactoring/Agile.md",
+    "Сфера знаний.md",
+    "Структура базы знаний.md",
+    "_Resources/_Templates/Bug card.md",
+    "_Resources/_Templates/Code card.md",
+    "_Resources/_Templates/Instruction.md",
+    "_Resources/_Templates/Quote card.md",
+    "_Resources/_Templates/Standard card.md",
+    "Refactoring/C++.md",
+    "_Resources/_Templates/Idea.md",
+    "_Resources/Project.md",
+    "Refactoring/Code.md",
+    "Refactoring/Группировка в длинных запросах SQL.md",
+    "test.md",
+    "Refactoring/Документо-ориентированные базы данных.md",
+    "Refactoring",
     "_Resources/Pasted image 20230817143703.png",
-    "New cards/Несобственный интеграл.md",
-    "New cards/Интегралы от неограниченных функций.md",
-    "New cards/Несобственный интеграл с бесконечными пределами.md",
-    "New cards/Свойства несобственных интегралов.md",
-    "New cards/Признаки сходимости несобственных интегралов от положительных функций.md",
-    "New cards/Абсолютная сходимость несобственных интегралов.md",
-    "New cards/Определенный интеграл.md",
-    "New cards/Интегрируемость непрерывных функций.md",
-    "New cards/Применения определенного интеграла.md",
-    "New cards/Вычисление длины кривой с помощью определенного интеграла.md",
     "_Resources/Pasted image 20230817115641.png",
-    "Markdown Mathematics.md",
-    "New cards/Вычисление объемов с помощью определенного интеграла.md",
     "_Resources/Pasted image 20230817113619.png",
-    "New cards/Вычисление площадей с помощью определенного интеграла.md",
     "_Resources/Pasted image 20230817110922.png",
     "_Resources/Pasted image 20230817110210.png",
     "_Resources/Pasted image 20230817105923.png",
     "_Resources/Pasted image 20230817105646.png",
     "_Resources/Pasted image 20230817105631.png",
-    "New cards/Формула Ньютона-Лейбинца.md",
-    "New cards/Приемы вычисления определенных интегралов.md",
-    "New cards/Непрерывность функции.md",
     "_Resources/Pasted image 20230816164536.png",
-    "New cards/Свойства определенного интеграла.md",
     "_Resources/Pasted image 20230816122724.png",
-    "New cards/Производная функции.md",
-    "New cards/Методы интегрирования.md",
-    "New cards/Неопределенный интеграл.md",
-    "New cards/Интегрирование иррациональных выражений.md",
-    "New cards/Анализ алгоритмов.md",
-    "New cards/Интегрирование рациональных выражений.md",
-    "New cards/Интегрирование по частям.md",
-    "New cards/Замена переменной в интеграле.md",
-    "_Resources/Pasted image 20230804182045.png",
+    "Refactoring",
     "obsidian",
     "Untitled.canvas"
   ]

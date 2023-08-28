@@ -1,5 +1,5 @@
 Quote: 
 
-Author:
+Author: 
 ___
 Links: [[]]

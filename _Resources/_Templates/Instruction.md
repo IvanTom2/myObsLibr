@@ -3,11 +3,11 @@
 
 ___
 ```
+Шаг 1. 
 
 ```
 ___
 Relations: 
-Tags: #bug
+Tags: #instruction
 References: 
 Query: 
-Error: 

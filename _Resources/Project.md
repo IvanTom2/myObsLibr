@@ -2,7 +2,7 @@
 > Пояснение. 
 
 ___
+Project: [[]]
 Relations: 
-Tags: 
+Tags: #project
 References: 
-Query: 
