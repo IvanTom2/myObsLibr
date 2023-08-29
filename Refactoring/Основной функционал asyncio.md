@@ -12,5 +12,5 @@ ___
 ```
 ___
 Language: [[Python]]
-Key-words:  [[Asyncio]] [[asyncio python]]
+Key-words:  [[asyncio Python]] [[asyncio Python]]
 Question query?: функционал в asyncio

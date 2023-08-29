@@ -15,5 +15,5 @@ print('hello world')
 ```
 ___
 Language: [[Python]]
-Key-words:  [[Алгоритмы]] [[Метод разделяй и властвуй]]
+Key-words:  [[Алгоритмы и структуры данных]] [[Метод разделяй и властвуй]]
 Question query?: 

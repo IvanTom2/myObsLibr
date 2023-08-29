@@ -60,5 +60,5 @@ def insertion_sort(massive, origin):
 ```
 ___
 Language: [[Python]]
-Key-words:  [[Алгоритмы]]
+Key-words:  [[Алгоритмы и структуры данных]]
 Question query?: 

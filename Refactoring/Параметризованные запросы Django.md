@@ -18,5 +18,5 @@ def by_rubric(request, rubric_id): # параметр передается в к
 ```
 ___
 Language: [[Python]]
-Key-words:  [[Django py]]
+Key-words:  [[Django Python]]
 Question query?: Как делать параметризованные запросы в Django

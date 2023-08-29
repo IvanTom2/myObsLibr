@@ -20,5 +20,5 @@ ___
 ```
 ___
 Language: [[Python]]
-Key-words:  [[Asyncio]]
+Key-words:  [[asyncio Python]]
 Question query?: как создать сокеты в python

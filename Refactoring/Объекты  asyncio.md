@@ -14,5 +14,5 @@ future.set_result(42)
 ```
 ___
 Language: [[Python]]
-Key-words:  [[asyncio python]]
+Key-words:  [[asyncio Python]]
 Question query?: будущие объекты asyncio future

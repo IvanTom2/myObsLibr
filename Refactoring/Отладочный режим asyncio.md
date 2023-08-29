@@ -9,5 +9,5 @@ asyncio.run(coroutine(), debug=True)
 ```
 ___
 Language: [[Python]]
-Key-words:  [[asyncio python]]
+Key-words:  [[asyncio Python]]
 Question query?: откладка асинхронного кода asyncio

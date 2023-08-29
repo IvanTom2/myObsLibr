@@ -20,5 +20,5 @@ loop.add_signal_handler(signal.SIGINT, cancel_tasks)
 ```
 ___
 Language: [[Python]]
-Key-words:  [[Asyncio]] [[asyncio python]]
+Key-words:  [[asyncio Python]] [[asyncio Python]]
 Question query?: 

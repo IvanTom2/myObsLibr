@@ -16,5 +16,5 @@ ___
 ```
 ___
 Language: [[Python]]
-Key-words:  [[Django py]]
+Key-words:  [[Django Python]]
 Question query?: Как создать проект Django (Джанго)? Как запустить сервер Django (Джанго)? 

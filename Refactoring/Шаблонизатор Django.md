@@ -21,5 +21,5 @@ ___
 ```
 ___
 Language: [[Python]]
-Key-words:  [[Django py]] [[Django View (контроллер)]]
+Key-words:  [[Django Python]] [[Контроллер]]
 Question query?: Шаблоны (templates) в Django (Джанго)
