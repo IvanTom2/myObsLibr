@@ -20,5 +20,5 @@ GROUP BY 1,2;
 ```
 ___
 Language: [[SQL]]
-Key-words:  [[Длинные запросы SQL]] [[Оптимизация запросов PostgreSQL]]
+Key-words:  [[Длинные запросы SQL]] [[Оптимизация запросов PostgreSQL Домбровская]]
 Question query?: 

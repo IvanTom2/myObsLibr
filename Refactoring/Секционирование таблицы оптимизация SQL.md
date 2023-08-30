@@ -18,5 +18,5 @@ PARTITION BY RANGE (boarding_time);
 ```
 ___
 Language: [[SQL]]
-Key-words:  [[Длинные запросы SQL]] [[Оптимизация запросов PostgreSQL]]
+Key-words:  [[Длинные запросы SQL]] [[Оптимизация запросов PostgreSQL Домбровская]]
 Question query?: 

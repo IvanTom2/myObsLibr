@@ -6,4 +6,4 @@
 ___
 Links: [[SQL]] [[Класс БД OLTP]]
 Tags: #sql 
-References: [[Оптимизация запросов PostgreSQL]]
+References: [[Оптимизация запросов PostgreSQL Домбровская]]
