@@ -1,5 +1,0 @@
-
-___
-Links:
-Tags:
-References:
