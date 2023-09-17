@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0a352c1c91e065f9",
+        "id": "f795700d1997fa8e",
         "type": "tabs",
         "children": [
           {
-            "id": "16d1d5cacc876a07",
+            "id": "33869a819863254d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Interpreter Lock Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abe9888952543f66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Создание цикла событий в отдельном потоке.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "296c147021028319",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,55 +44,19 @@
             }
           },
           {
-            "id": "901135dec30849bb",
+            "id": "cda0f82f604f28a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Простой сервер на сокетах Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09a5a96e3fa65f02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Неблокирующий сервер на сокетах Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "389a00e3d4ce7e89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Неблокирующий сервер на селекторах Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8cc16684857fa2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Асинхронный сервер asyncio Python.md",
+                "file": "Многопоточное выполнение CPU bound задач asyncio Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Асинхронный сервер asyncio Python.md",
+                "file": "Многопоточное выполнение CPU bound задач asyncio Python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Асинхронный сервер asyncio Python.md",
+                "file": "Многопоточное выполнение CPU bound задач asyncio Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +170,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Асинхронный сервер asyncio Python.md"
+                "file": "Многопоточное выполнение CPU bound задач asyncio Python.md"
+              }
+            }
+          },
+          {
+            "id": "3dded4c982373bdc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -204,45 +202,45 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a8cc16684857fa2b",
+  "active": "cda0f82f604f28a5",
   "lastOpenFiles": [
-    "Обработка ошибок в задачах asyncio Python.md",
-    "Асинхронный сервер asyncio Python.md",
-    "Асинхронные задачи asyncio Python.md",
-    "Неблокирующий сервер на селекторах Python.md",
-    "Неблокирующий сервер на сокетах Python.md",
-    "Простой сервер на сокетах Python.md",
     "asyncio Python.md",
-    "Асинхронное программирование на Python.md",
-    "Отладочный режим asyncio.md",
-    "Цикл событий asyncio.md",
-    "Ловушки сопрогамм или когда не стоит применять asyncio.md",
-    "Объекты asyncio Python.md",
-    "Сопрограммы asyncio Python.md",
-    "Запуск сопрограмм asyncio Python.md",
-    "Основной функционал asyncio.md",
-    "Процессы и потоки.md",
-    "Конкурентность, параллелизм и многозадачность.md",
+    "Создание цикла событий в отдельном потоке.md",
+    "_Resources/_Templates/Code card.md",
+    "Многопоточное выполнение CPU bound задач asyncio Python.md",
     "Global Interpreter Lock Python.md",
+    "Управлением массивом задач в asyncio Python.md",
+    "Создание нового цикла событий в отдельном процессе.md",
+    "Пул процессов в цикле событий asyncio Python.md",
+    "Asyncio (книга).md",
+    "Пул потоков в цикле событий asyncio Python.md",
+    "Блокировки, разделяемые данные и взаимоблокировки в пуле потоков.md",
+    "Реентерабельные блокировки.md",
+    "Взаимные блокировки.md",
+    "_Resources/Pasted image 20230916174649.png",
+    "Разделяемые данные и блокировки в пуле процессов.md",
+    "Конкурентность, параллелизм и многозадачность.md",
+    "Неблокирующий сервер на сокетах Python.md",
+    "Блокирующие API в asyncio.md",
+    "Многопоточный сервер на сокетах Python.md",
+    "Простой сервер на сокетах Python.md",
+    "Неблокирующий сервер на селекторах Python.md",
+    "Асинхронный сервер asyncio Python.md",
+    "Пища для ума.md",
+    "_Resources/Pasted image 20230916145211.png",
+    "Обработка данных с помощью MapReduce.md",
+    "_Resources/Pasted image 20230916091211.png",
+    "Потоковая обработка набора данных из БД asyncio Python.md",
+    "Мультипроцессорные вычисления Python.md",
+    "Асинхронная работа с БД asyncio Python.md",
     "_Resources/Pasted image 20230910104958.png",
     "_Resources/Pasted image 20230910102052.png",
-    "Внесение значения в базу данных INSERT INTO.md",
-    "Data Manipulation Language.md",
-    "PostgreSQL.md",
-    "Алгоритмы и структуры данных.md",
-    "Сортировка вставкой (insertion sort).md",
-    "Сортировка вставкой C++.md",
-    "Сортировка вставкой Python.md",
-    "C++.md",
     "_Resources/Pasted image 20230903154442.png",
     "_Resources/Pasted image 20230903134946.png",
     "_Resources/Pasted image 20230902150546.png",
     "Refactoring",
     "_Resources/Pasted image 20230817143703.png",
     "_Resources/Pasted image 20230817115641.png",
-    "_Resources/Pasted image 20230817113619.png",
-    "_Resources/Pasted image 20230817110922.png",
-    "_Resources/Pasted image 20230817110210.png",
     "Refactoring",
     "obsidian",
     "Untitled.canvas"
