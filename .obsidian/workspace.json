@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f795700d1997fa8e",
+        "id": "70e1dd8fa96b6097",
         "type": "tabs",
         "children": [
           {
-            "id": "33869a819863254d",
+            "id": "1ba7f8011c5f4df0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Global Interpreter Lock Python.md",
+                "file": "Объектно-ориентированное программирование.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "abe9888952543f66",
+            "id": "673393422aca3b4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Создание цикла событий в отдельном потоке.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "296c147021028319",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "asyncio Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cda0f82f604f28a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Многопоточное выполнение CPU bound задач asyncio Python.md",
+                "file": "Объединение объектов в систему.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Многопоточное выполнение CPU bound задач asyncio Python.md",
+                "file": "Объединение объектов в систему.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Многопоточное выполнение CPU bound задач asyncio Python.md",
+                "file": "Объединение объектов в систему.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Многопоточное выполнение CPU bound задач asyncio Python.md"
+                "file": "Объединение объектов в систему.md"
               }
             }
           },
@@ -202,13 +178,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "cda0f82f604f28a5",
+  "active": "673393422aca3b4a",
   "lastOpenFiles": [
+    "Объектно-ориентированное программирование.md",
+    "Объединение объектов в систему.md",
+    "English/Interchangeably.md",
+    "English/English.md",
+    "English",
+    "Python Object Oriented Programming.md",
+    "Парадигмы программирования.md",
+    "Неблокирующий ввод данных из командной строки asyncio Python.md",
+    "Потоки данных asyncio Python.md",
     "asyncio Python.md",
     "Создание цикла событий в отдельном потоке.md",
-    "_Resources/_Templates/Code card.md",
-    "Многопоточное выполнение CPU bound задач asyncio Python.md",
     "Global Interpreter Lock Python.md",
+    "Многопоточное выполнение CPU bound задач asyncio Python.md",
+    "_Resources/_Templates/Code card.md",
     "Управлением массивом задач в asyncio Python.md",
     "Создание нового цикла событий в отдельном процессе.md",
     "Пул процессов в цикле событий asyncio Python.md",
@@ -223,16 +208,8 @@
     "Неблокирующий сервер на сокетах Python.md",
     "Блокирующие API в asyncio.md",
     "Многопоточный сервер на сокетах Python.md",
-    "Простой сервер на сокетах Python.md",
-    "Неблокирующий сервер на селекторах Python.md",
-    "Асинхронный сервер asyncio Python.md",
-    "Пища для ума.md",
     "_Resources/Pasted image 20230916145211.png",
-    "Обработка данных с помощью MapReduce.md",
     "_Resources/Pasted image 20230916091211.png",
-    "Потоковая обработка набора данных из БД asyncio Python.md",
-    "Мультипроцессорные вычисления Python.md",
-    "Асинхронная работа с БД asyncio Python.md",
     "_Resources/Pasted image 20230910104958.png",
     "_Resources/Pasted image 20230910102052.png",
     "_Resources/Pasted image 20230903154442.png",
