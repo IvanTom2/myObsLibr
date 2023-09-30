@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "70e1dd8fa96b6097",
+        "id": "171684d6f176f341",
         "type": "tabs",
         "children": [
           {
-            "id": "1ba7f8011c5f4df0",
+            "id": "851d7a6d6b83caf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Объектно-ориентированное программирование.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "673393422aca3b4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Объединение объектов в систему.md",
+                "file": "Асинхронная вставка данных в БД asyncio Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Объединение объектов в систему.md",
+                "file": "Асинхронная вставка данных в БД asyncio Python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Объединение объектов в систему.md",
+                "file": "Асинхронная вставка данных в БД asyncio Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Объединение объектов в систему.md"
+                "file": "Асинхронная вставка данных в БД asyncio Python.md"
               }
             }
           },
@@ -178,36 +165,38 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "673393422aca3b4a",
+  "active": "851d7a6d6b83caf5",
   "lastOpenFiles": [
-    "Объектно-ориентированное программирование.md",
-    "Объединение объектов в систему.md",
-    "English/Interchangeably.md",
-    "English/English.md",
-    "English",
-    "Python Object Oriented Programming.md",
-    "Парадигмы программирования.md",
-    "Неблокирующий ввод данных из командной строки asyncio Python.md",
-    "Потоки данных asyncio Python.md",
+    "Асинхронная работа с БД asyncio Python.md",
     "asyncio Python.md",
-    "Создание цикла событий в отдельном потоке.md",
-    "Global Interpreter Lock Python.md",
-    "Многопоточное выполнение CPU bound задач asyncio Python.md",
-    "_Resources/_Templates/Code card.md",
+    "Асинхронные блокировки asyncio Python.md",
+    "Пул подключений к БД.md",
+    "Сложное REST API с использованием aiohttp Python.md",
+    "Потоковая обработка набора данных из БД asyncio Python.md",
+    "Асинхронная вставка данных в БД asyncio Python.md",
     "Управлением массивом задач в asyncio Python.md",
-    "Создание нового цикла событий в отдельном процессе.md",
-    "Пул процессов в цикле событий asyncio Python.md",
+    "Ограничение уровня конкурентности с помощью семафоров asyncio Python.md",
+    "Уведомление задач с помощью событий.md",
     "Asyncio (книга).md",
-    "Пул потоков в цикле событий asyncio Python.md",
-    "Блокировки, разделяемые данные и взаимоблокировки в пуле потоков.md",
-    "Реентерабельные блокировки.md",
-    "Взаимные блокировки.md",
+    "Синхронизация и состояние гонки в asyncio Python.md",
+    "Микросервисы asyncio Python.md",
+    "Паттерн проектирования микросервисов Прерыватель circuit breaker.md",
+    "_Resources/Pasted image 20230923112735.png",
+    "Паттерн проектирования микросервисов backend-for-frontend.md",
+    "Асинхронный интерфейс серверного шлюза ASGI Python.md",
+    "Потоки данных asyncio Python.md",
+    "_Resources/Pasted image 20230922070242.png",
+    "Микросервисы.md",
+    "WebSocket и Starlette Python.md",
+    "Starlette - ASGI-совместимый каркас Python.md",
+    "Простое REST API с использованием aiohttp Python.md",
+    "Веб-приложения с использованием asyncio Python.md",
+    "Сервер на asyncio Python.md",
+    "Неблокирующий ввод данных из командной строки asyncio Python.md",
+    "Трегова и беспокойство.md",
+    "Эмоциональный интеллект.md",
+    "English",
     "_Resources/Pasted image 20230916174649.png",
-    "Разделяемые данные и блокировки в пуле процессов.md",
-    "Конкурентность, параллелизм и многозадачность.md",
-    "Неблокирующий сервер на сокетах Python.md",
-    "Блокирующие API в asyncio.md",
-    "Многопоточный сервер на сокетах Python.md",
     "_Resources/Pasted image 20230916145211.png",
     "_Resources/Pasted image 20230916091211.png",
     "_Resources/Pasted image 20230910104958.png",
@@ -216,8 +205,6 @@
     "_Resources/Pasted image 20230903134946.png",
     "_Resources/Pasted image 20230902150546.png",
     "Refactoring",
-    "_Resources/Pasted image 20230817143703.png",
-    "_Resources/Pasted image 20230817115641.png",
     "Refactoring",
     "obsidian",
     "Untitled.canvas"
