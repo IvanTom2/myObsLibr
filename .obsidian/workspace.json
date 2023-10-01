@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Асинхронная вставка данных в БД asyncio Python.md",
+                "file": "New cards/test file.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Асинхронная вставка данных в БД asyncio Python.md",
+                "file": "New cards/test file.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Асинхронная вставка данных в БД asyncio Python.md",
+                "file": "New cards/test file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Асинхронная вставка данных в БД asyncio Python.md"
+                "file": "New cards/test file.md"
               }
             }
           },
@@ -167,13 +167,14 @@
   },
   "active": "851d7a6d6b83caf5",
   "lastOpenFiles": [
+    "Асинхронная вставка данных в БД asyncio Python.md",
+    "New cards/test file.md",
     "Асинхронная работа с БД asyncio Python.md",
     "asyncio Python.md",
     "Асинхронные блокировки asyncio Python.md",
     "Пул подключений к БД.md",
     "Сложное REST API с использованием aiohttp Python.md",
     "Потоковая обработка набора данных из БД asyncio Python.md",
-    "Асинхронная вставка данных в БД asyncio Python.md",
     "Управлением массивом задач в asyncio Python.md",
     "Ограничение уровня конкурентности с помощью семафоров asyncio Python.md",
     "Уведомление задач с помощью событий.md",
@@ -194,7 +195,6 @@
     "Сервер на asyncio Python.md",
     "Неблокирующий ввод данных из командной строки asyncio Python.md",
     "Трегова и беспокойство.md",
-    "Эмоциональный интеллект.md",
     "English",
     "_Resources/Pasted image 20230916174649.png",
     "_Resources/Pasted image 20230916145211.png",
