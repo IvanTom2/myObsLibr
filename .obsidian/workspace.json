@@ -4,22 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "576009a82aaa4ee1",
+        "id": "60d42d6ef497b363",
         "type": "tabs",
         "children": [
           {
-            "id": "f3e3c099ba7d5fea",
+            "id": "6a9e0ff369a6bd02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Продуктивность и самоорганизация.md",
+                "file": "New cards/REST Riak.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a95cd89122bc9b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Riak.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00287b00ecb5b625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New cards/Ruby.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9035125491188adb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New cards/Операторы циклов Ruby.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "864c821e620de64b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New cards/Условные конструкции Ruby.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c7f1ed8171ad71e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Булева алгебра и логические операторы Ruby.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Продуктивность и самоорганизация.md",
+                "file": "New cards/Операторы циклов Ruby.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Продуктивность и самоорганизация.md",
+                "file": "New cards/Операторы циклов Ruby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Продуктивность и самоорганизация.md"
+                "file": "New cards/Операторы циклов Ruby.md"
               }
             }
           },
@@ -165,16 +226,26 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f3e3c099ba7d5fea",
+  "active": "9035125491188adb",
   "lastOpenFiles": [
+    "New cards/Условные конструкции Ruby.md",
+    "Булева алгебра и логические операторы Ruby.md",
+    "New cards/Операторы циклов Ruby.md",
+    "Семь языков программирования за семь недель.md",
+    "New cards/Ruby.md",
+    "Riak.md",
+    "New cards/REST Riak.md",
     "_Resources/_Templates/Standard card.md",
     "_Resources/_Templates/Quote card.md",
     "_Resources/_Templates/Instruction.md",
-    "_Resources/_Templates/Idea.md",
     "_Resources/_Templates/Code card.md",
+    "_Resources/_Templates/Bug card.md",
+    "Untitled.md",
+    "Хранилища ключей и значений.md",
+    "Продуктивность и самоорганизация.md",
+    "_Resources/_Templates/Idea.md",
     "New cards/Творческий подход к программированию и разработке.md",
     "New cards/Организация знаний и информации.md",
-    "Продуктивность и самоорганизация.md",
     "New cards/Шамхаты.md",
     "New cards/Метод организации знаний CODE.md",
     "Создавая второй мозг Тьяго Форте.md",
@@ -185,16 +256,6 @@
     "Пул подключений к БД.md",
     "New cards/Тестовый канвас.canvas",
     "Постулаты",
-    "Асинхронная вставка данных в БД asyncio Python.md",
-    "New cards/test file.md",
-    "Асинхронная работа с БД asyncio Python.md",
-    "asyncio Python.md",
-    "Асинхронные блокировки asyncio Python.md",
-    "Сложное REST API с использованием aiohttp Python.md",
-    "Потоковая обработка набора данных из БД asyncio Python.md",
-    "Управлением массивом задач в asyncio Python.md",
-    "Ограничение уровня конкурентности с помощью семафоров asyncio Python.md",
-    "Уведомление задач с помощью событий.md",
     "_Resources/Pasted image 20230923112735.png",
     "_Resources/Pasted image 20230922070242.png",
     "English",
