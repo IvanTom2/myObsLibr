@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "de65566d2320d4b0",
+        "id": "88f29d53c79da80e",
         "type": "tabs",
         "children": [
           {
-            "id": "26c85feb6bf98c0c",
+            "id": "7d5adcd99cd8d705",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asyncio Python.md",
+                "file": "C++.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "80a4b47f253b6351",
+            "id": "19650b98c6ce7f48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Профилирование Python.md",
+                "file": "New cards/Составные типы C++.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c87245c4d43f068f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New cards/Ссылки в C++.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Профилирование Python.md",
+                "file": "New cards/Ссылки в C++.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Профилирование Python.md",
+                "file": "New cards/Ссылки в C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Профилирование Python.md"
+                "file": "New cards/Ссылки в C++.md"
               }
             }
           },
@@ -178,34 +190,34 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "80a4b47f253b6351",
+  "active": "c87245c4d43f068f",
   "lastOpenFiles": [
+    "New cards/Составные типы C++.md",
+    "New cards/Ссылки в C++.md",
+    "C++.md",
+    "New cards/Область видимости имен C++.md",
+    "Определяй переменные только перед использованием.md",
+    "New cards/Инициализация, определение и объявление переменной C++.md",
+    "New cards/Ошибки и трудности это важный этап во время обучения.md",
+    "Учеба и обучение.md",
+    "Симуляция.md",
+    "Важность воспроизводства и извлечения знаний.md",
+    "New cards/План повторения изученного материала.md",
+    "Аналогия.md",
+    "Чем больше вопросов - тем больше знаний.md",
+    "New cards/Связывание информации друг с другом в процессе обучения.md",
+    "New cards/Практика - единственный способ достичь мастерства.md",
+    "New cards/Интервальное обучение.md",
+    "New cards/Ограничение времени непрерывного обучения.md",
+    "asyncio Python.md",
+    "Профилирование Python.md",
     "Мультипроцессорные вычисления Python.md",
     "Python Hints.md",
-    "asyncio Python.md",
     "Пул процессов в цикле событий asyncio Python.md",
-    "New cards/Интервальное обучение.md",
-    "Учеба и обучение.md",
-    "Важность воспроизводства и извлечения знаний.md",
     "New cards/Система Лейтнера.md",
     "New cards/Важность анализа собственных ошибок и действий.md",
     "Запомнить всё.md",
     "New cards/Самопроверка это эффективный способ усвоения знаний.md",
-    "Фокус на качество знаний.md",
-    "При обучении важны примеры.md",
-    "Важность понимания основ предмета изучения.md",
-    "New cards/Отношение к обучению как к проекту.md",
-    "New cards/Важность подбора материала при обучении.md",
-    "New cards/План повторения изученного материала.md",
-    "New cards/Ограничение времени непрерывного обучения.md",
-    "New cards/Ошибки и трудности это важный этап во время обучения.md",
-    "New cards/Творческий подход к программированию и разработке.md",
-    "New cards/Объяснение материала самому себе и другим.md",
-    "Жестикуляция во время учебы.md",
-    "New cards/Практика - единственный способ достичь мастерства.md",
-    "Изображение материала.md",
-    "Не изучать узконаправленные темы.md",
-    "New cards/Важность метасознания при обучении.md",
     "_Resources/Pasted image 20231010081947.png",
     "_Resources/Pasted image 20231010081417.png",
     "_Resources/Pasted image 20231009071720.png",
