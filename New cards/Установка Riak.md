@@ -13,7 +13,7 @@ sudo dpkg -i /path/to/riak/debfile
 
 ```
 ___
-Relations: 
+Relations: [[Riak]] 
 Tags: #instruction
 References: 
 Query: 
