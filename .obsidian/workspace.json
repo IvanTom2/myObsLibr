@@ -4,40 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "e637036820c6e882",
+        "id": "c4cb0bcab19cfbaf",
         "type": "tabs",
         "children": [
           {
-            "id": "1ccfaa35efc9ed37",
+            "id": "046ab974a80581a7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "29e86f1335c5c236",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Метод ближайших соседей kNN.md",
+                "file": "New cards/Основы Unified Modeling Language UML.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a458f63c78050c17",
+            "id": "724d2828b70b6338",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Метод ближайших соседей kNN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e353f8d1b11468f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New cards/Методы прототипов и ближайших соседей kNN.md",
+                "file": "Объектно-ориентированное программирование.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Методы прототипов и ближайших соседей kNN.md",
+                "file": "Объектно-ориентированное программирование.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Методы прототипов и ближайших соседей kNN.md",
+                "file": "Объектно-ориентированное программирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Методы прототипов и ближайших соседей kNN.md"
+                "file": "Объектно-ориентированное программирование.md"
               }
             }
           },
@@ -190,8 +186,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8e353f8d1b11468f",
+  "active": "724d2828b70b6338",
   "lastOpenFiles": [
+    "_Resources/Pasted image 20231027084542.png",
+    "Парадигмы программирования.md",
+    "Объектно-ориентированное программирование.md",
+    "Объединение объектов в систему.md",
+    "New cards/Основы Unified Modeling Language UML.md",
+    "Философия C++ Эккель.md",
+    "_Resources/Pasted image 20231027083322.png",
+    "_Resources/Pasted image 20231027083305.png",
+    "_Resources/Pasted image 20231027082900.png",
+    "_Resources/Pasted image 20231027082609.png",
+    "Профилирование Python.md",
     "Метод ближайших соседей kNN.md",
     "New cards/Методы прототипов и ближайших соседей kNN.md",
     "Основы статстического обучения Фридман.md",
@@ -211,25 +218,14 @@
     "New cards/Классы в C++.md",
     "Определяй переменные только перед использованием.md",
     "Модели машинного обучения.md",
-    "Машинное обучение.md",
-    "New cards/Машинный уровень представления символьных типов C++.md",
-    "New cards/Составные типы C++.md",
-    "New cards/Ссылки в C++.md",
-    "New cards/Область видимости имен C++.md",
-    "New cards/Ошибки и трудности это важный этап во время обучения.md",
-    "Учеба и обучение.md",
     "_Resources/Pasted image 20231010081947.png",
     "_Resources/Pasted image 20231010081417.png",
     "_Resources/Pasted image 20231009071720.png",
     "_Resources/Pasted image 20231008083836.png",
     "_Resources/Pasted image 20231007193227.png",
     "_Resources/Pasted image 20231007162749.png",
-    "_Resources/Pasted image 20231007113334.png",
-    "_Resources/Pasted image 20231007112200.png",
     "New cards/Тестовый канвас.canvas",
     "Постулаты",
-    "_Resources/Pasted image 20230923112735.png",
-    "_Resources/Pasted image 20230922070242.png",
     "English",
     "Refactoring",
     "Refactoring",
