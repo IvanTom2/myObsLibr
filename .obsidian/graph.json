@@ -8,29 +8,22 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#разработка",
+      "query": "#book",
       "color": {
         "a": 1,
-        "rgb": 16776960
+        "rgb": 14701138
       }
     },
     {
-      "query": "tag:#лайфхак",
+      "query": "",
       "color": {
         "a": 1,
-        "rgb": 65280
-      }
-    },
-    {
-      "query": "tag:#принципы",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
+        "rgb": 14725458
       }
     }
   ],
   "collapse-display": true,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
@@ -39,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 2.347752639372896,
-  "close": true
+  "scale": 0.6757621765136719,
+  "close": false
 }
