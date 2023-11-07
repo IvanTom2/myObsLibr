@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "cf3c368e0c0c3234",
+        "id": "dcca3bf2a46e124e",
         "type": "tabs",
         "children": [
           {
-            "id": "494b06b3e9edd5e0",
+            "id": "f6199a9cb5fd4fd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/REST Riak.md",
+                "file": "New cards/Singly Linked List Node Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9265314c3219e030",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New cards/Односвязный список Singly List Node.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c4afaebc74311cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New cards/Связанный список Linked List Node.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/REST Riak.md",
+                "file": "New cards/Односвязный список Singly List Node.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/REST Riak.md",
+                "file": "New cards/Односвязный список Singly List Node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/REST Riak.md"
+                "file": "New cards/Односвязный список Singly List Node.md"
               }
             }
           },
@@ -165,8 +190,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "494b06b3e9edd5e0",
+  "active": "9265314c3219e030",
   "lastOpenFiles": [
+    "_Resources/Pasted image 20231107170948.png",
+    "New cards/Связанный список Linked List Node.md",
+    "New cards/Singly Linked List Node Python.md",
+    "New cards/Односвязный список Singly List Node.md",
+    "New cards/REST Riak.md",
     "Riak.md",
     "Как сохранить изображение в Riak.md",
     "New cards/Система Лейтнера.md",
@@ -189,12 +219,7 @@
     "New cards/Заполнить базу данных PostgreSQL скриптом или дампом.md",
     "PostgreSQL.md",
     "New cards/Хранение и уничтожение объектов C++.md",
-    "C++.md",
-    "Объектно-ориентированное программирование.md",
     "_Resources/Pasted image 20231105083242.png",
-    "Программирование на C++ Васильев.md",
-    "Парадигмы программирования.md",
-    "New cards/Ожидание конкретного условия asyncio Python.md",
     "_Resources/Pasted image 20231104131407.png",
     "_Resources/Pasted image 20231028144845.png",
     "_Resources/Pasted image 20231028131017.png",
