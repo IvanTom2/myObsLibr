@@ -9,6 +9,8 @@ Riak поддерживает REST API, то есть содержит в себ
 
 Если забыл ключи, то их можно найти, обратившись к сегменту. 
 
+Также для записи можно устанавливать [[Ссылки в Riak]] и метаданные. Метаданные обычно не выводятся, их нужно запрашивать со специальным флагом `-I` (вообще с данным флагом всегда выводятся различные метаданные). Метаданные добавляются с помощью обычно записи, но с добавлением `X-Riak-Meta-{name}`. 
+
 ___
 ```
 // добавление записи в виде HTML
@@ -31,7 +33,12 @@ curl -i -X DELETE http://localhost:8098/riak/animals/JeMYlwAvHvFi49nPF2OZL6tQ1Dy
 // получение всех ключей сегмента
 curl http://localhost:8098/riak/animals?keys=true
 
-
+// установка ссылки и мета-данных
+curl -X PUT http://localhost:8091/riak/cages/1 \
+-H "Content-Type: application/json" \
+-H "X-Riak-Meta-Color: Pink" \
+-H "Link: </riak/animals/polly>; riaktag=\"contains\"" \
+-d '{"room" : 101}'
 
 ```
 ___
@@ -39,7 +46,7 @@ ___
 Примеры применения: [[]] 
 Основные ошибки: [[]]
 ___
-Relations: 
-Tags: #code
-References: 
+Relations: [[Riak]] 
+Tags: #code 
+References: [[Семь баз данных]] 
 Query: 

@@ -2,8 +2,47 @@
 
 В таких сложных случаях помогают условия. Условие - самый сложный примитив синхронизации. Условие объединяет некоторые аспекты блокировки и события в один примитив, по сути, обертывая поведение и того, и другого. 
 
+В приведенном ниже коде есть несколько сопрограмм. Сопрограмма `do_work` захватывает условие и ожидает его через `condition.wait()`. Ожидание будет закончено тогда, когда одна из сопрограмм вызовет метод `condition.notify_all()` - это делает сопрограммма `fire_event`. 
+
 ___
 ```
+import asyncio
+from asyncio import Condition
+
+
+async def do_work(condition: Condition):
+    while True:
+        print("Ожидаю блокировки условия...")
+
+        async with condition:
+            print("Блокировка захвачена, освобождаю и жду выполнения условия...")
+            await condition.wait()
+            print(
+                "Условие выполнено, вновь захватываю блокировку и начинаю работать..."
+            )
+            await asyncio.sleep(1)
+        print("Работа закончена, блокировка освобождена.")
+
+
+async def fire_event(condition: Condition):
+    while True:
+        await asyncio.sleep(5)
+        print("Перед уведомлением захватывают блокировку условия...")
+        async with condition:
+            print("Блокировка захвачена, уведомляю всех исполнителей.")
+            condition.notify_all()
+        print("Исполнители уведомлены, освобождаю блокировку")
+
+
+async def main():
+    condition = Condition()
+
+    asyncio.create_task(fire_event(condition))
+    await asyncio.gather(do_work(condition), do_work(condition))
+
+
+if __name__ == "__main__":
+    asyncio.run(main())
 
 ```
 ___

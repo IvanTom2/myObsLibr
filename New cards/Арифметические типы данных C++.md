@@ -19,5 +19,5 @@ ___
 ___
 Relations: [[Типы данных C++]] 
 Tags: #code
-References: 
+References: [[Язык программирования C++ базовый курс]] 
 Query: 
