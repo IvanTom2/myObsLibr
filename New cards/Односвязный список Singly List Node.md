@@ -29,6 +29,6 @@ ___
 Основные ошибки: [[]]
 ___
 Relations: [[Связанный список Linked List Node]] 
-Tags: #code
+Tags: #code #theory 
 References: 
 Query: 
