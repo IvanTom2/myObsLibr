@@ -8,43 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c034df02857ffde9",
+            "id": "caf77212b5b8b0b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL.md",
+                "file": "New cards/Связанный список Linked List Node.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "34051dc44d6c75e8",
+            "id": "09f577ea9b2c064b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Типы данных PostgreSQL.md",
+                "file": "Кольцевой (замкнутый) связанный список Circular List Node.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "11e9e5c8bcbce60b",
+            "id": "19cb3a9476ba02c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Riak MapReduce.md",
+                "file": "New cards/Двусвязный список Doubly List Node.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Riak MapReduce.md",
+                "file": "Кольцевой (замкнутый) связанный список Circular List Node.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Riak MapReduce.md",
+                "file": "Кольцевой (замкнутый) связанный список Circular List Node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Riak MapReduce.md"
+                "file": "Кольцевой (замкнутый) связанный список Circular List Node.md"
               }
             }
           },
@@ -190,18 +190,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "11e9e5c8bcbce60b",
+  "active": "09f577ea9b2c064b",
   "lastOpenFiles": [
+    "_Resources/Pasted image 20231115183602.png",
+    "_Resources/Pasted image 20231115183349.png",
+    "New cards/Двусвязный список Doubly List Node.md",
+    "Кольцевой (замкнутый) связанный список Circular List Node.md",
+    "New cards/Связанный список Linked List Node.md",
+    "New cards/Зацикленный связанный список.md",
+    "New cards/Односвязный список Singly List Node.md",
+    "PostgreSQL.md",
+    "New cards/Riak MapReduce.md",
     "_Resources/Pasted image 20231109085725.png",
     "New cards/REST Riak.md",
-    "New cards/Riak MapReduce.md",
     "New cards/Добавление записей в Riak через Python.md",
     "New cards/Типы данных PostgreSQL.md",
-    "PostgreSQL.md",
     "_Resources/Pasted image 20231107170948.png",
-    "New cards/Связанный список Linked List Node.md",
-    "New cards/Односвязный список Singly List Node.md",
-    "New cards/Двусвязный список Doubly List Node.md",
     "New cards/Singly Linked List Node Python.md",
     "Riak.md",
     "Как сохранить изображение в Riak.md",
@@ -218,16 +222,12 @@
     "PostgreSQL DML.md",
     "New cards/Предикаты PostgreSQL.md",
     "_Resources/Pasted image 20231105114439.png",
-    "Базы данных.md",
-    "Хранилища ключей и значений.md",
     "_Resources/Pasted image 20231105083242.png",
     "_Resources/Pasted image 20231104131407.png",
     "_Resources/Pasted image 20231028144845.png",
     "_Resources/Pasted image 20231028131017.png",
     "_Resources/Pasted image 20230705134549.png",
     "_Resources/Pasted image 20230726184159.png",
-    "_Resources/Pasted image 20231027084542.png",
-    "_Resources/Pasted image 20231027083322.png",
     "New cards/Тестовый канвас.canvas",
     "Постулаты",
     "English",
