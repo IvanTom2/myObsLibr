@@ -161,7 +161,7 @@ ___
 Примеры применения: [[]] 
 Основные ошибки: [[]]
 ___
-Relations: [[Связанный список Linked List Node]] [[Python Hints]] 
+Relations: [[Связанный список Linked List]] [[Python Hints]] 
 Tags: #code
 References: 
 Query: 

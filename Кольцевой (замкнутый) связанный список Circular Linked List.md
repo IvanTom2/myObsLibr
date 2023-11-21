@@ -36,7 +36,7 @@ ___
 Примеры применения: [[]] 
 Основные ошибки: [[]]
 ___
-Relations: [[Связанный список Linked List Node]] 
+Relations: [[Связанный список Linked List]] 
 Tags: #code
 References: 
 Query: 

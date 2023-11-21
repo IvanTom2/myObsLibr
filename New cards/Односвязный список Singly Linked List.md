@@ -25,10 +25,10 @@ ___
 ```
 ___
 Зачем это нужно: [[]] 
-Примеры применения: [[Singly Linked List Node Python]]  
+Примеры применения: [[Singly Linked List Python]]  
 Основные ошибки: [[]]
 ___
-Relations: [[Связанный список Linked List Node]] 
+Relations: [[Связанный список Linked List]] 
 Tags: #code #theory 
 References: 
 Query: 
