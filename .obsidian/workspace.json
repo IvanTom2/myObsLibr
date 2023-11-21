@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2bf408d890560986",
+        "id": "5d256cab0c047ff8",
         "type": "tabs",
         "children": [
           {
-            "id": "caf77212b5b8b0b4",
+            "id": "006f7ae4f61d8982",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Связанный список Linked List Node.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09f577ea9b2c064b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Кольцевой (замкнутый) связанный список Circular List Node.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19cb3a9476ba02c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New cards/Двусвязный список Doubly List Node.md",
+                "file": "New cards/Riak MapReduce.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Кольцевой (замкнутый) связанный список Circular List Node.md",
+                "file": "New cards/Riak MapReduce.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Кольцевой (замкнутый) связанный список Circular List Node.md",
+                "file": "New cards/Riak MapReduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Кольцевой (замкнутый) связанный список Circular List Node.md"
+                "file": "New cards/Riak MapReduce.md"
               }
             }
           },
@@ -190,44 +165,44 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "09f577ea9b2c064b",
+  "active": "006f7ae4f61d8982",
   "lastOpenFiles": [
-    "_Resources/Pasted image 20231115183602.png",
-    "_Resources/Pasted image 20231115183349.png",
-    "New cards/Двусвязный список Doubly List Node.md",
-    "Кольцевой (замкнутый) связанный список Circular List Node.md",
-    "New cards/Связанный список Linked List Node.md",
-    "New cards/Зацикленный связанный список.md",
-    "New cards/Односвязный список Singly List Node.md",
-    "PostgreSQL.md",
-    "New cards/Riak MapReduce.md",
-    "_Resources/Pasted image 20231109085725.png",
+    "Riak.md",
     "New cards/REST Riak.md",
     "New cards/Добавление записей в Riak через Python.md",
-    "New cards/Типы данных PostgreSQL.md",
-    "_Resources/Pasted image 20231107170948.png",
-    "New cards/Singly Linked List Node Python.md",
-    "Riak.md",
-    "Как сохранить изображение в Riak.md",
-    "New cards/Система Лейтнера.md",
-    "New cards/Побитовые алгоритмы.md",
-    "New cards/Управление стандартным выводом в подпроцессе asyncio Python.md",
-    "New cards/Управление подпроцессами asyncio Python.md",
-    "New cards/Асинхронные очереди FIFO asyncio Python.md",
-    "New cards/Асинхронные очереди LIFO asyncio Python.md",
-    "New cards/Асинхронные очереди с приоритетами asyncio Python.md",
-    "New cards/Асинхронная очередь с приоритетами в web приложении asyncio Python.md",
-    "asyncio Python.md",
-    "Asyncio (книга).md",
-    "PostgreSQL DML.md",
-    "New cards/Предикаты PostgreSQL.md",
-    "_Resources/Pasted image 20231105114439.png",
-    "_Resources/Pasted image 20231105083242.png",
-    "_Resources/Pasted image 20231104131407.png",
-    "_Resources/Pasted image 20231028144845.png",
-    "_Resources/Pasted image 20231028131017.png",
-    "_Resources/Pasted image 20230705134549.png",
-    "_Resources/Pasted image 20230726184159.png",
+    "New cards/Ссылки в C++.md",
+    "New cards/Указатели в C++.md",
+    "New cards/Константные выражения и переменные constexpr в C++.md",
+    "New cards/Указатель на константу C++.md",
+    "New cards/Ссылка на константу C++.md",
+    "New cards/Константы в C++.md",
+    "New cards/Составные типы C++.md",
+    "C++.md",
+    "New cards/Массив Array.md",
+    "New cards/Словарь отображение Hashing.md",
+    "_Resources/Pasted image 20231119122517.png",
+    "New cards/Структуры данных.md",
+    "New cards/Динамический массив Dynamic Array.md",
+    "Множества и отображения.md",
+    "New cards/Одномерный массив One Dimensional Array.md",
+    "New cards/Многомерный массив Multidimensional Array.md",
+    "New cards/Статическое и динамическое выделение памяти.md",
+    "Программирование.md",
+    "_Resources/Pasted image 20231118091943.png",
+    "_Resources/Pasted image 20231118091929.png",
+    "_Resources/Pasted image 20231118091517.png",
+    "_Resources/Pasted image 20231118091512.png",
+    "_Resources/Pasted image 20231118090430.png",
+    "_Resources/Pasted image 20231118083907.png",
+    "New cards/Связанный список Linked List Node.md",
+    "Массив RAM.md",
+    "Кольцевой (замкнутый) связанный список Circular List Node.md",
+    "New cards/Двусвязный список Doubly List Node.md",
+    "_Resources/Pasted image 20231115183602.png",
+    "_Resources/Pasted image 20231115183349.png",
+    "New cards/Зацикленный связанный список.md",
+    "New cards/Односвязный список Singly List Node.md",
+    "_Resources/Pasted image 20231109085725.png",
     "New cards/Тестовый канвас.canvas",
     "Постулаты",
     "English",
