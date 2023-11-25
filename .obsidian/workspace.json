@@ -4,47 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "a6bcd3dabc89ee8e",
+        "id": "4708bb18bb94361a",
         "type": "tabs",
         "children": [
           {
-            "id": "9564de86a97118d6",
+            "id": "f2c500fe9b8fb85e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++.md",
+                "file": "New cards/Git.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c3a06d378007eb0",
+            "id": "410916d84c6e6f56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Оператор безусловного перехода goto в C++.md",
+                "file": "New cards/Игнорирование файлов gitignore.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2275b2cfcd1394a0",
+            "id": "6c9b8c6ddebd2b4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Генерация и перехват ошибок в C++.md",
+                "file": "New cards/Основные комманды Git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Оператор безусловного перехода goto в C++.md",
+                "file": "New cards/Основные комманды Git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Оператор безусловного перехода goto в C++.md",
+                "file": "New cards/Основные комманды Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Оператор безусловного перехода goto в C++.md"
+                "file": "New cards/Основные комманды Git.md"
               }
             }
           },
@@ -190,44 +190,45 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1c3a06d378007eb0",
+  "active": "6c9b8c6ddebd2b4f",
   "lastOpenFiles": [
-    "C++.md",
-    "New cards/Оператор безусловного перехода goto в C++.md",
+    "New cards/Игнорирование файлов gitignore.md",
+    "New cards/Git.md",
+    "New cards/Основные комманды Git.md",
+    "Pro Git.md",
+    "_Resources/Pasted image 20231125202647.png",
+    "_Resources/Pasted image 20231125193646.png",
+    "_Resources/Pasted image 20231125193000.png",
+    "New cards/Docker.md",
+    "New cards/Docker Network сети в докере.md",
+    "New cards/Docker port mapping проброс портов.md",
+    "New cards/Docker environment variables переменные окружения.md",
+    "New cards/Контейнеры Docker.md",
+    "New cards/Docker Volumes постоянные данные.md",
+    "New cards/Untitled",
+    "New cards/Процессы Docker.md",
+    "New cards/Образы Docker.md",
+    "_Resources/Pasted image 20231125143541.png",
+    "New cards/Linux.md",
+    "New cards/Nginx.md",
+    "Разработка.md",
+    "New cards/Проблема множественного использования WHERE в рамках одного атрибута SQL.md",
+    "New cards/Предикаты PostgreSQL.md",
+    "New cards/SELECT PostgreSQL.md",
+    "PostgreSQL.md",
     "New cards/Генерация и перехват ошибок в C++.md",
+    "New cards/Оператор безусловного перехода goto в C++.md",
+    "C++.md",
     "Циклы C++.md",
     "New cards/Условные операторы C++.md",
     "New cards/Составные типы в C++.md",
     "New cards/Ссылки в C++.md",
-    "New cards/Составные типы C++.md",
-    "Потоки ввода-вывода в C++.md",
-    "New cards/Массив Array.md",
-    "New cards/Стек Stack.md",
-    "New cards/Структуры данных.md",
-    "New cards/Объяснение материала самому себе и другим.md",
-    "New cards/Связанный список Linked List.md",
-    "Кольцевой (замкнутый) связанный список Circular Linked List.md",
-    "New cards/Двусвязный список Doubly Linked List.md",
-    "New cards/Односвязный список Singly Linked List.md",
-    "New cards/Singly Linked List Python.md",
-    "Алгоритмы и структуры данных.md",
-    "New cards/Riak MapReduce.md",
-    "Riak.md",
-    "New cards/REST Riak.md",
-    "New cards/Добавление записей в Riak через Python.md",
-    "New cards/Указатели в C++.md",
-    "New cards/Константные выражения и переменные constexpr в C++.md",
-    "New cards/Указатель на константу C++.md",
     "_Resources/Pasted image 20231119122517.png",
     "_Resources/Pasted image 20231118091943.png",
     "_Resources/Pasted image 20231118091929.png",
     "_Resources/Pasted image 20231118091517.png",
     "_Resources/Pasted image 20231118091512.png",
     "_Resources/Pasted image 20231118090430.png",
-    "_Resources/Pasted image 20231118083907.png",
-    "_Resources/Pasted image 20231115183602.png",
-    "_Resources/Pasted image 20231115183349.png",
-    "_Resources/Pasted image 20231109085725.png",
     "New cards/Тестовый канвас.canvas",
     "Постулаты",
     "English",
