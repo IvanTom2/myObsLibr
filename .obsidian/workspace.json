@@ -8,11 +8,63 @@
         "type": "tabs",
         "children": [
           {
+            "id": "aaba9c9e8e938b04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Бинарный поиск.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "601d88df2f300196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New cards/Линейный поиск.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b04b63cf3578c60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгоритмы и структуры данных.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2a04f1b3aec699d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Бинарный поиск Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35fae9e4f50bd519",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New cards/Neovim.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Бинарный поиск.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Бинарный поиск.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Бинарный поиск.md"
+              }
             }
           },
           {
@@ -157,8 +213,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2a04f1b3aec699d0",
+  "active": "aaba9c9e8e938b04",
   "lastOpenFiles": [
+    "_Resources/Pasted image 20231127091258.png",
+    "New cards/Линейный поиск.md",
+    "Бинарный поиск.md",
+    "Алгоритмы и структуры данных.md",
+    "Бинарный поиск Python.md",
+    "New cards/Основные комманды Git.md",
+    "New cards/Neovim.md",
+    "New cards/Git Workflow.md",
+    "New cards/Git.md",
+    "_Resources/Pasted image 20231126191556.png",
+    "_Resources/Pasted image 20231126190921.png",
     "New cards/Файлы и каталоги в Python.md",
     "New cards/Контейнеры Python.md",
     "New cards/Итераторы Python.md",
@@ -177,25 +244,14 @@
     "Python Object Oriented Programming.md",
     "Объединение объектов в систему.md",
     "Реентерабельные блокировки.md",
-    "Модель данных python.md",
-    "New cards/Dockerfile.md",
-    "New cards/Docker Compose.md",
     "_Resources/Pasted image 20231126122148.png",
     "_Resources/Pasted image 20231126121919.png",
     "_Resources/Pasted image 20231126094101.png",
     "_Resources/Pasted image 20231126094100.png",
-    "New cards/Docker Network сети в докере.md",
     "_Resources/Pasted image 20231126093316.png",
-    "New cards/Основные комманды Git.md",
-    "New cards/Игнорирование файлов gitignore.md",
-    "New cards/Git.md",
-    "Pro Git.md",
     "_Resources/Pasted image 20231125202647.png",
     "_Resources/Pasted image 20231125193646.png",
-    "_Resources/Pasted image 20231125193000.png",
-    "New cards/Docker.md",
     "New cards/Untitled",
-    "_Resources/Pasted image 20231125143541.png",
     "New cards/Тестовый канвас.canvas",
     "Постулаты",
     "English",
