@@ -54,21 +54,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a11ff411d61fb086",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New cards/Фикстуры в тестировании Fixture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New cards/Pytest Fixture.md",
+                "file": "Python Pytest.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New cards/Pytest Fixture.md",
+                "file": "Python Pytest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New cards/Pytest Fixture.md"
+                "file": "Python Pytest.md"
               }
             }
           },
@@ -214,13 +201,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a340fd8b6a21e928",
+  "active": "598a5dfad824943d",
   "lastOpenFiles": [
-    "Python Pytest.md",
-    "New cards/Pytest Fixture.md",
-    "New cards/Маркировка тестов Pytest.md",
     "New cards/Тестирование.md",
+    "New cards/Исключения Python.md",
+    "New cards/Стратегии тестирования.md",
     "New cards/Фикстуры в тестировании Fixture.md",
+    "New cards/Маркировка тестов Pytest.md",
+    "New cards/Pytest Fixture.md",
+    "Python Pytest.md",
     "New cards/Neovim.md",
     "Бинарный поиск Python.md",
     "Алгоритмы и структуры данных.md",
@@ -240,12 +229,10 @@
     "New cards/Модули, пакеты и импорт Python.md",
     "New cards/Перечисления в Python.md",
     "New cards/Python 3 и PyQT 6.md",
-    "New cards/Исключения Python.md",
     "_Resources/Pasted image 20231126155350.png",
     "New cards/Перегрузка операторов Python.md",
     "New cards/Python ООП.md",
     "Python.md",
-    "Python Hints.md",
     "_Resources/Pasted image 20231126122148.png",
     "_Resources/Pasted image 20231126121919.png",
     "_Resources/Pasted image 20231126094101.png",
