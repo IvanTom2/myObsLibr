@@ -1,1 +1,0 @@
-JOPA JOPA JOPA
