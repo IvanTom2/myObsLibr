@@ -4,70 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "db9d4cbb15aebd57",
+        "id": "21c3cfd13728b695",
         "type": "tabs",
         "children": [
           {
-            "id": "aaba9c9e8e938b04",
+            "id": "cd808cf209149db5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бинарный поиск.md",
+                "file": "New cards/Типы данных PostgreSQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "601d88df2f300196",
+            "id": "de95b763168504c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New cards/Линейный поиск.md",
+                "file": "New cards/Итераторы Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9b04b63cf3578c60",
+            "id": "9a35db1115bbb8cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгоритмы и структуры данных.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a04f1b3aec699d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Бинарный поиск Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35fae9e4f50bd519",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New cards/Neovim.md",
+                "file": "Паттерн проектирования микросервисов backend-for-frontend.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Бинарный поиск.md",
+                "file": "New cards/Итераторы Python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Бинарный поиск.md",
+                "file": "New cards/Итераторы Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Бинарный поиск.md"
+                "file": "New cards/Итераторы Python.md"
               }
             }
           },
@@ -213,44 +190,44 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "aaba9c9e8e938b04",
+  "active": "de95b763168504c2",
   "lastOpenFiles": [
-    "_Resources/Pasted image 20231127091258.png",
-    "New cards/Линейный поиск.md",
-    "Бинарный поиск.md",
-    "Алгоритмы и структуры данных.md",
-    "Бинарный поиск Python.md",
-    "New cards/Основные комманды Git.md",
+    "Паттерн проектирования микросервисов backend-for-frontend.md",
+    "New cards/Итераторы Python.md",
+    "New cards/Типы данных PostgreSQL.md",
+    "PostgreSQL.md",
+    "New cards/SELECT PostgreSQL.md",
+    "New cards/Предикаты PostgreSQL.md",
+    "PostgreSQL DML.md",
     "New cards/Neovim.md",
-    "New cards/Git Workflow.md",
-    "New cards/Git.md",
+    "New cards/PostgreSQL DDL.md",
+    "New cards/Заполнить базу данных PostgreSQL скриптом или дампом.md",
+    "New cards/Определение классов в C++.md",
+    "New cards/Docker.md",
+    "C++.md",
+    "New cards/Типы данных C++.md",
+    "New cards/Работа с типами в C++.md",
+    "New cards/Константы в C++.md",
+    "New cards/Спецификатор типа decltype в C++.md",
+    "New cards/Спецификатор типа auto в C++.md",
+    "New cards/Указатель на константу C++.md",
+    "New cards/Ссылка на константу C++.md",
+    "New cards/Константные выражения и переменные constexpr в C++.md",
+    "New cards/Псевдонимы типов alias в C++.md",
+    "New cards/Указатели и спецификатор constexpr в C++.md",
+    "New cards/Оператор безусловного перехода goto в C++.md",
+    "Объединение объектов в систему.md",
+    "Объектно-ориентированное программирование.md",
+    "_Resources/Pasted image 20231127091258.png",
     "_Resources/Pasted image 20231126191556.png",
     "_Resources/Pasted image 20231126190921.png",
-    "New cards/Файлы и каталоги в Python.md",
-    "New cards/Контейнеры Python.md",
-    "New cards/Итераторы Python.md",
-    "New cards/Классы Python.md",
-    "New cards/Множественное наследование Python.md",
-    "New cards/Модули, пакеты и импорт Python.md",
-    "New cards/Перечисления в Python.md",
-    "New cards/Python 3 и PyQT 6.md",
-    "New cards/Исключения Python.md",
     "_Resources/Pasted image 20231126155350.png",
-    "New cards/Перегрузка операторов Python.md",
-    "New cards/Python ООП.md",
-    "Python.md",
-    "Python Hints.md",
-    "Объектно-ориентированное программирование.md",
-    "Python Object Oriented Programming.md",
-    "Объединение объектов в систему.md",
-    "Реентерабельные блокировки.md",
     "_Resources/Pasted image 20231126122148.png",
     "_Resources/Pasted image 20231126121919.png",
     "_Resources/Pasted image 20231126094101.png",
     "_Resources/Pasted image 20231126094100.png",
     "_Resources/Pasted image 20231126093316.png",
     "_Resources/Pasted image 20231125202647.png",
-    "_Resources/Pasted image 20231125193646.png",
     "New cards/Untitled",
     "New cards/Тестовый канвас.canvas",
     "Постулаты",

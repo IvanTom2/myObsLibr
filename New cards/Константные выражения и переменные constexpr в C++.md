@@ -32,5 +32,5 @@ ___
 ___
 Relations: [[Константы в C++]] 
 Tags: #code
-References: 
+References: [[Язык программирования C++ базовый курс]] 
 Query: 
